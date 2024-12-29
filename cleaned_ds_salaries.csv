@@ -1,0 +1,3000 @@
+experience_level,job_title,remote_ratio,company_size,adjusted_salary
+MI,ML Engineer,Remote,S,30000.0
+MI,ML Engineer,Remote,S,25500.0
+SE,Applied Scientist,In office,L,222200.0
+SE,Applied Scientist,In office,L,136000.0
+SE,Data Scientist,In office,M,147100.0
+SE,Data Scientist,In office,M,90700.0
+SE,Data Analyst,Remote,M,130000.0
+SE,Data Analyst,Remote,M,100000.0
+EN,Applied Scientist,In office,L,213660.0
+EN,Applied Scientist,In office,L,130760.0
+SE,Data Modeler,In office,M,147100.0
+SE,Data Modeler,In office,M,90700.0
+SE,Data Scientist,In office,M,170000.0
+SE,Data Scientist,In office,M,150000.0
+MI,Data Analyst,Remote,M,150000.0
+MI,Data Analyst,Remote,M,110000.0
+SE,Business Intelligence Engineer,In office,M,225000.0
+SE,Business Intelligence Engineer,In office,M,156400.0
+SE,Machine Learning Engineer,In office,M,200000.0
+SE,Machine Learning Engineer,In office,M,130000.0
+SE,Data Engineer,In office,M,253200.0
+SE,Data Engineer,In office,M,90700.0
+SE,Computer Vision Engineer,In office,M,342810.0
+SE,Computer Vision Engineer,In office,M,184590.0
+MI,Data Engineer,In office,M,162500.0
+MI,Data Engineer,In office,M,130000.0
+MI,Data Analyst,In office,M,105380.0
+MI,Data Analyst,In office,M,64500.0
+EN,Applied Scientist,In office,L,204620.0
+EN,Applied Scientist,In office,L,110680.0
+SE,Data Engineer,In office,M,270703.0
+SE,Data Engineer,In office,M,221484.0
+SE,Data Scientist,Remote,M,212750.0
+SE,Data Scientist,Remote,M,185000.0
+SE,Data Scientist,Remote,M,262000.0
+SE,Data Scientist,Remote,M,245000.0
+SE,Data Scientist,Remote,M,275300.0
+SE,Data Scientist,Remote,M,183500.0
+SE,Data Scientist,Remote,M,218500.0
+SE,Data Scientist,Remote,M,199098.0
+SE,Data Engineer,Remote,M,203300.0
+SE,Data Engineer,Remote,M,123600.0
+SE,Research Engineer,In office,M,189110.0
+SE,Research Engineer,In office,M,139000.0
+EX,Data Scientist,In office,M,258750.0
+EX,Data Scientist,In office,M,185000.0
+SE,Data Engineer,Remote,M,231500.0
+SE,Data Engineer,Remote,M,166000.0
+SE,Data Scientist,Remote,M,172500.0
+SE,Data Scientist,Remote,M,110500.0
+SE,Data Engineer,In office,M,238000.0
+SE,Data Engineer,In office,M,176000.0
+SE,Data Engineer,Remote,M,237000.0
+SE,Data Engineer,Remote,M,201450.0
+SE,Applied Scientist,In office,L,309400.0
+SE,Applied Scientist,In office,L,159100.0
+SE,Data Engineer,In office,M,115000.0
+SE,Data Engineer,In office,M,81500.0
+SE,Data Scientist,Remote,M,237000.0
+SE,Data Scientist,Remote,M,201450.0
+SE,Computer Vision Engineer,In office,M,280000.0
+SE,Computer Vision Engineer,In office,M,210000.0
+SE,Data Architect,Remote,M,280100.0
+SE,Data Architect,Remote,M,168100.0
+SE,Data Engineer,Remote,M,193500.0
+SE,Data Engineer,Remote,M,139000.0
+SE,Business Intelligence Engineer,In office,M,185900.0
+SE,Business Intelligence Engineer,In office,M,129300.0
+SE,Data Engineer,Remote,M,225000.0
+SE,Data Engineer,Remote,M,175000.0
+SE,Data Engineer,In office,M,185000.0
+SE,Data Engineer,In office,M,140000.0
+SE,Data Scientist,In office,M,105000.0
+SE,Data Scientist,In office,M,70000.0
+EN,Machine Learning Engineer,In office,M,163196.0
+EN,Machine Learning Engineer,In office,M,145885.0
+SE,Data Engineer,Remote,M,217000.0
+SE,Data Engineer,Remote,M,185000.0
+SE,Data Analyst,In office,L,202800.0
+SE,Data Analyst,In office,L,104300.0
+SE,Data Analyst,In office,M,145000.0
+SE,Data Analyst,In office,M,65000.0
+SE,Data Engineer,In office,M,165000.0
+SE,Data Engineer,In office,M,132300.0
+SE,Data Engineer,In office,M,179170.0
+SE,Data Engineer,In office,M,94300.0
+SE,Analytics Engineer,In office,M,152500.0
+SE,Analytics Engineer,In office,M,116450.0
+SE,Data Engineer,In office,M,247300.0
+SE,Data Engineer,In office,M,133800.0
+SE,Research Engineer,In office,M,203000.0
+SE,Research Engineer,In office,M,133000.0
+EN,Research Scientist,Hybrid,L,220000.0
+SE,Data Scientist,In office,M,150000.0
+SE,Data Scientist,In office,M,120000.0
+SE,Analytics Engineer,In office,M,289800.0
+SE,Analytics Engineer,In office,M,214000.0
+SE,Analytics Engineer,In office,M,179820.0
+SE,Analytics Engineer,In office,M,143860.0
+SE,Machine Learning Engineer,Remote,M,283200.0
+SE,Machine Learning Engineer,Remote,M,188800.0
+SE,Analytics Engineer,In office,M,289800.0
+SE,Analytics Engineer,In office,M,214200.0
+SE,Data Engineer,In office,M,185900.0
+SE,Data Engineer,In office,M,129300.0
+SE,Data Engineer,In office,M,252000.0
+SE,Data Engineer,In office,M,129000.0
+MI,Data Analytics Manager,In office,M,155000.0
+MI,Data Analytics Manager,In office,M,140000.0
+SE,Data Engineer,Remote,M,161800.0
+SE,Data Engineer,Remote,M,141600.0
+SE,Machine Learning Engineer,In office,L,342300.0
+SE,Machine Learning Engineer,In office,L,176100.0
+MI,Data Engineer,Remote,M,100000.0
+MI,Data Engineer,Remote,M,70000.0
+EN,Data Engineer,In office,M,85000.0
+EN,Data Engineer,In office,M,65000.0
+SE,Data Scientist,Remote,M,138784.0
+SE,Data Scientist,Remote,M,83270.0
+EN,Data Analyst,In office,M,75000.0
+EN,Data Analyst,In office,M,70000.0
+SE,Data Analyst,In office,M,204500.0
+SE,Data Analyst,In office,M,138900.0
+SE,Machine Learning Engineer,Remote,M,318300.0
+SE,Machine Learning Engineer,Remote,M,212200.0
+SE,Data Engineer,Remote,M,95000.0
+SE,Data Engineer,Remote,M,75000.0
+SE,Data Scientist,In office,M,195000.0
+SE,Data Scientist,In office,M,160000.0
+SE,Analytics Engineer,In office,M,230000.0
+SE,Analytics Engineer,In office,M,143200.0
+MI,Data Engineer,Remote,M,100000.0
+MI,Data Engineer,Remote,M,70000.0
+MI,Business Data Analyst,Hybrid,L,105000.0
+SE,Data Engineer,In office,M,145000.0
+SE,Data Engineer,In office,M,115000.0
+SE,Data Analyst,In office,M,168400.0
+SE,Data Analyst,In office,M,105200.0
+SE,Applied Scientist,In office,L,309400.0
+SE,Applied Scientist,In office,L,159100.0
+SE,Machine Learning Engineer,In office,M,190000.0
+SE,Machine Learning Engineer,In office,M,150000.0
+MI,Data Engineer,In office,M,162500.0
+MI,Data Engineer,In office,M,130000.0
+SE,Analytics Engineer,Remote,M,150000.0
+SE,Analytics Engineer,Remote,M,120000.0
+SE,Data Engineer,In office,M,145000.0
+SE,Data Engineer,In office,M,120000.0
+SE,Applied Scientist,In office,L,222200.0
+SE,Applied Scientist,In office,L,136000.0
+SE,Data Engineer,In office,M,241000.0
+SE,Data Engineer,In office,M,155000.0
+SE,Data Engineer,Remote,M,220000.0
+SE,Data Engineer,Remote,M,190000.0
+EN,Data Analyst,Remote,M,85000.0
+EN,Data Analyst,Remote,M,75000.0
+SE,Data Engineer,In office,M,160000.0
+SE,Data Engineer,In office,M,140000.0
+MI,Machine Learning Engineer,In office,M,300000.0
+MI,Machine Learning Engineer,In office,M,250000.0
+SE,Data Scientist,In office,M,228000.0
+SE,Data Scientist,In office,M,186000.0
+SE,Data Scientist,In office,M,190000.0
+SE,Data Scientist,In office,M,170000.0
+MI,Research Engineer,In office,M,230000.0
+MI,Research Engineer,In office,M,200000.0
+SE,Data Architect,Remote,M,180000.0
+SE,Data Architect,Remote,M,115000.0
+SE,Data Architect,Remote,M,200000.0
+SE,Data Architect,Remote,M,115000.0
+EX,Data Engineer,In office,M,220000.0
+EX,Data Engineer,In office,M,205000.0
+MI,Data Engineer,In office,M,180000.0
+MI,Data Engineer,In office,M,130000.0
+SE,Data Engineer,Remote,M,200000.0
+SE,Data Engineer,Remote,M,150000.0
+SE,Computer Vision Engineer,In office,M,215000.0
+SE,Computer Vision Engineer,In office,M,170000.0
+SE,Machine Learning Engineer,In office,M,247500.0
+SE,Machine Learning Engineer,In office,M,172200.0
+SE,Data Analyst,Remote,M,120000.0
+SE,Data Analyst,Remote,M,75000.0
+SE,Data Analyst,In office,M,140000.0
+SE,Data Analyst,In office,M,120000.0
+SE,Data Engineer,In office,M,128000.0
+SE,Data Engineer,In office,M,81500.0
+SE,Data Engineer,In office,M,145000.0
+SE,Data Engineer,In office,M,115000.0
+SE,Data Engineer,In office,M,185000.0
+SE,Data Engineer,In office,M,140000.0
+EX,Head of Data,In office,M,329500.0
+EX,Head of Data,In office,M,269600.0
+SE,Data Quality Analyst,In office,M,100000.0
+SE,Data Quality Analyst,In office,M,80000.0
+SE,Data Scientist,In office,M,250000.0
+SE,Data Scientist,In office,M,162500.0
+MI,AI Developer,Remote,M,200000.0
+SE,Data Engineer,In office,M,145000.0
+SE,Data Engineer,In office,M,100000.0
+EX,Data Engineer,In office,M,145000.0
+EX,Data Engineer,In office,M,115000.0
+SE,Data Scientist,In office,M,203500.0
+SE,Data Scientist,In office,M,152000.0
+SE,Data Scientist,In office,L,239000.0
+SE,Data Scientist,In office,L,122900.0
+SE,Data Scientist,In office,M,237000.0
+SE,Data Scientist,In office,M,145000.0
+SE,Data Science Manager,In office,M,191765.0
+SE,Data Science Manager,In office,M,134236.0
+SE,Analytics Engineer,Remote,M,190000.0
+SE,Analytics Engineer,Remote,M,112000.0
+EN,Data Engineer,In office,M,85000.0
+EN,Data Engineer,In office,M,65000.0
+SE,Data Analyst,In office,M,135000.0
+SE,Data Analyst,In office,M,105500.0
+SE,Research Engineer,In office,M,293000.0
+SE,Research Engineer,In office,M,185000.0
+SE,Data Analyst,In office,M,80000.0
+SE,Data Analyst,In office,M,70000.0
+SE,Data Engineer,Remote,M,220000.0
+SE,Data Engineer,Remote,M,160000.0
+SE,Data Scientist,Remote,M,175000.0
+SE,Data Scientist,Remote,M,145000.0
+SE,Data Analyst,In office,M,200000.0
+SE,Data Analyst,In office,M,148500.0
+SE,Data Engineer,In office,L,240500.0
+SE,Data Engineer,In office,L,123700.0
+SE,Analytics Engineer,Remote,M,152900.0
+SE,Analytics Engineer,Remote,M,117100.0
+SE,Analytics Engineer,Remote,M,173000.0
+SE,Analytics Engineer,Remote,M,113000.0
+SE,Applied Scientist,In office,L,260000.0
+SE,Applied Scientist,In office,L,136000.0
+EX,Data Engineer,In office,M,175000.0
+EX,Data Engineer,In office,M,110000.0
+SE,Applied Scientist,In office,L,260000.0
+SE,Applied Scientist,In office,L,136000.0
+SE,Research Scientist,Remote,M,130000.0
+SE,Research Scientist,Remote,M,110000.0
+SE,Applied Scientist,Remote,M,205000.0
+SE,Applied Scientist,Remote,M,184000.0
+SE,Data Analyst,Remote,M,149500.0
+SE,Data Analyst,Remote,M,127075.0
+SE,Data Scientist,In office,M,195000.0
+SE,Data Scientist,In office,M,160000.0
+SE,Data Engineer,Remote,M,219535.0
+SE,Data Engineer,Remote,M,146115.0
+SE,Data Scientist,In office,M,170000.0
+SE,Data Scientist,In office,M,135000.0
+SE,Data Scientist,Remote,M,175000.0
+SE,Data Scientist,Remote,M,145000.0
+SE,Data Scientist,In office,M,199000.0
+SE,Data Scientist,In office,M,162000.0
+SE,Applied Scientist,In office,L,222200.0
+SE,Applied Scientist,In office,L,136000.0
+EX,Analytics Engineer,Remote,M,221000.0
+EX,Analytics Engineer,Remote,M,153000.0
+SE,Data Analyst,In office,M,187000.0
+SE,Data Analyst,In office,M,128000.0
+SE,Research Scientist,In office,M,210000.0
+SE,Research Scientist,In office,M,136000.0
+SE,Data Scientist,Remote,M,175000.0
+SE,Data Scientist,Remote,M,100000.0
+SE,Data Engineer,In office,M,179000.0
+SE,Data Engineer,In office,M,109000.0
+SE,Data Scientist,In office,M,245000.0
+SE,Data Scientist,In office,M,180000.0
+SE,Data Analyst,Remote,M,142000.0
+SE,Data Analyst,Remote,M,75000.0
+SE,Data Manager,In office,M,198800.0
+SE,Data Manager,In office,M,105200.0
+SE,Data Analyst,Remote,M,125000.0
+SE,Data Analyst,Remote,M,112000.0
+SE,Data Scientist,In office,M,210000.0
+SE,Data Scientist,In office,M,155000.0
+SE,Data Manager,Remote,M,115000.0
+SE,Data Manager,Remote,M,86000.0
+SE,Data Scientist,In office,M,165000.0
+SE,Data Scientist,In office,M,140000.0
+SE,Data Analyst,In office,M,139000.0
+SE,Data Analyst,In office,M,106000.0
+MI,Machine Learning Engineer,Remote,M,280700.0
+MI,Machine Learning Engineer,Remote,M,150450.0
+SE,Data Architect,In office,M,250500.0
+SE,Data Architect,In office,M,159500.0
+SE,Data Engineer,In office,M,145000.0
+SE,Data Engineer,In office,M,115000.0
+SE,Data Analyst,In office,M,140000.0
+SE,Data Analyst,In office,M,120000.0
+EN,Data Scientist,Remote,M,130001.0
+EN,Data Scientist,Remote,M,71907.0
+MI,Data Scientist,Remote,M,93918.0
+MI,Data Scientist,Remote,M,51962.0
+EN,Data Engineer,In office,M,85000.0
+EN,Data Engineer,In office,M,65000.0
+SE,Machine Learning Engineer,In office,M,257000.0
+SE,Machine Learning Engineer,In office,M,147000.0
+SE,Data Engineer,Remote,M,222000.0
+SE,Data Engineer,Remote,M,175000.0
+SE,Data Scientist,Remote,M,203000.0
+SE,Data Scientist,Remote,M,133200.0
+EN,Applied Scientist,In office,L,213660.0
+EN,Applied Scientist,In office,L,130760.0
+SE,Data Engineer,In office,M,221000.0
+SE,Data Engineer,In office,M,147000.0
+SE,Data Quality Analyst,In office,M,100000.0
+SE,Data Quality Analyst,In office,M,80000.0
+SE,Data Scientist,In office,M,185900.0
+SE,Data Scientist,In office,M,129300.0
+SE,Data Scientist,Remote,M,238000.0
+SE,Data Scientist,Remote,M,156000.0
+SE,Machine Learning Engineer,Remote,M,304000.0
+SE,Machine Learning Engineer,Remote,M,199000.0
+SE,Data Engineer,In office,M,150000.0
+SE,Data Engineer,In office,M,130000.0
+SE,Data Scientist,Remote,M,140000.0
+SE,Data Scientist,Remote,M,110000.0
+MI,Data Analyst,In office,M,90000.0
+MI,Data Analyst,In office,M,75000.0
+SE,Data Engineer,In office,M,240000.0
+SE,Data Engineer,In office,M,183600.0
+MI,Data Specialist,In office,M,130000.0
+MI,Data Specialist,In office,M,80000.0
+SE,Data Engineer,In office,M,250000.0
+SE,Data Engineer,In office,M,150000.0
+SE,Data Analytics Manager,Remote,M,160000.0
+SE,Data Analytics Manager,Remote,M,120000.0
+SE,Machine Learning Engineer,In office,M,289076.0
+SE,Machine Learning Engineer,In office,M,202353.0
+SE,Data Engineer,In office,M,145000.0
+SE,Data Engineer,In office,M,120000.0
+SE,Data Analyst,In office,M,155000.0
+SE,Data Analyst,In office,M,106000.0
+SE,Data Engineer,In office,M,200000.0
+SE,Data Engineer,In office,M,160000.0
+SE,Data Scientist,Remote,M,157750.0
+SE,Data Scientist,Remote,M,104650.0
+MI,Data Scientist,Remote,M,180000.0
+MI,Data Scientist,Remote,M,140000.0
+EX,Data Scientist,In office,M,200000.0
+EX,Data Scientist,In office,M,145000.0
+MI,Lead Data Analyst,In office,L,68000.0
+EN,BI Data Engineer,Remote,M,60000.0
+EN,Data Engineer,In office,M,85000.0
+EN,Data Engineer,In office,M,65000.0
+MI,Data Engineer,In office,M,125000.0
+MI,Data Engineer,In office,M,90000.0
+SE,Data Analyst,Remote,M,105000.0
+SE,Data Analyst,Remote,M,90000.0
+SE,Analytics Engineer,In office,M,179820.0
+SE,Analytics Engineer,In office,M,143860.0
+SE,Data Analyst,In office,M,135000.0
+SE,Data Analyst,In office,M,105500.0
+EN,Research Engineer,In office,M,155000.0
+EN,Research Engineer,In office,M,125000.0
+SE,Machine Learning Engineer,In office,M,241000.0
+SE,Machine Learning Engineer,In office,M,181000.0
+SE,Data Scientist,In office,M,252000.0
+SE,Data Scientist,In office,M,154000.0
+EX,Data Architect,In office,M,180000.0
+EX,Data Architect,In office,M,155000.0
+SE,Data Scientist,In office,M,191765.0
+SE,Data Scientist,In office,M,134236.0
+SE,Data Scientist,Remote,M,175000.0
+SE,Data Scientist,Remote,M,145000.0
+SE,Data Scientist,Remote,M,237000.0
+SE,Data Scientist,Remote,M,145000.0
+EN,Research Engineer,In office,M,155000.0
+EN,Research Engineer,In office,M,125000.0
+SE,Data Analyst,In office,M,80000.0
+SE,Data Analyst,In office,M,70000.0
+SE,Data Engineer,In office,M,146000.0
+SE,Data Engineer,In office,M,75000.0
+EN,Data Analyst,Remote,M,64200.0
+EN,Data Analyst,Remote,M,56100.0
+SE,Machine Learning Engineer,In office,M,170000.0
+SE,Machine Learning Engineer,In office,M,130000.0
+SE,Data Analyst,Remote,M,208450.0
+SE,Data Analyst,Remote,M,170550.0
+SE,Machine Learning Engineer,In office,M,125000.0
+SE,Machine Learning Engineer,In office,M,100000.0
+MI,Data Manager,In office,M,135000.0
+MI,Data Manager,In office,M,120000.0
+SE,Data Scientist,Remote,M,200000.0
+SE,Data Scientist,Remote,M,170000.0
+SE,Applied Scientist,In office,L,222200.0
+SE,Applied Scientist,In office,L,136000.0
+SE,Applied Scientist,In office,L,260000.0
+SE,Applied Scientist,In office,L,136000.0
+SE,Data Analyst,In office,M,153600.0
+SE,Data Analyst,In office,M,100500.0
+SE,Applied Scientist,Remote,M,205000.0
+SE,Applied Scientist,Remote,M,184000.0
+MI,Data Analyst,In office,M,182500.0
+MI,Data Analyst,In office,M,121500.0
+SE,Data Engineer,In office,M,203100.0
+SE,Data Engineer,In office,M,114500.0
+SE,Data Engineer,In office,M,252000.0
+SE,Data Engineer,In office,M,129000.0
+EN,Data Engineer,Remote,M,92700.0
+EN,Data Engineer,Remote,M,61800.0
+SE,Data Engineer,Remote,M,160000.0
+SE,Data Engineer,Remote,M,130000.0
+SE,Data Scientist,In office,M,170000.0
+SE,Data Scientist,In office,M,135000.0
+MI,Data Architect,In office,M,167500.0
+MI,Data Architect,In office,M,106500.0
+SE,Data Scientist,In office,M,195000.0
+SE,Data Scientist,In office,M,160000.0
+MI,Data Engineer,In office,M,146000.0
+MI,Data Engineer,In office,M,75000.0
+EX,Data Engineer,Remote,M,286000.0
+EX,Data Engineer,Remote,M,207000.0
+SE,Data Analyst,Remote,M,100000.0
+SE,Data Analyst,Remote,M,80000.0
+SE,Data Engineer,In office,M,223250.0
+SE,Data Engineer,In office,M,178600.0
+EX,Director of Data Science,In office,M,353200.0
+EX,Director of Data Science,In office,M,249300.0
+MI,Machine Learning Scientist,In office,M,230000.0
+MI,Machine Learning Scientist,In office,M,220000.0
+SE,Data Scientist,Remote,M,297300.0
+SE,Data Scientist,Remote,M,198200.0
+MI,Research Scientist,Remote,M,210000.0
+MI,Research Scientist,Remote,M,151800.0
+SE,Data Scientist,Remote,M,200000.0
+SE,Data Scientist,Remote,M,170000.0
+SE,Data Scientist,In office,M,317070.0
+SE,Data Scientist,In office,M,170730.0
+SE,Data Engineer,In office,M,128000.0
+SE,Data Engineer,In office,M,81500.0
+MI,MLOps Engineer,Remote,M,134000.0
+MI,MLOps Engineer,Remote,M,124000.0
+SE,Data Engineer,In office,M,171250.0
+SE,Data Engineer,In office,M,113750.0
+SE,Data Engineer,In office,M,165000.0
+SE,Data Engineer,In office,M,132300.0
+SE,Data Scientist,In office,M,225000.0
+SE,Data Scientist,In office,M,175000.0
+SE,Data Engineer,In office,M,230000.0
+SE,Data Engineer,In office,M,124500.0
+SE,Machine Learning Engineer,In office,M,247500.0
+SE,Machine Learning Engineer,In office,M,172200.0
+SE,Data Analyst,In office,M,175000.0
+SE,Data Analyst,In office,M,145000.0
+SE,Data Analyst,In office,M,148700.0
+SE,Data Analyst,In office,M,125600.0
+SE,Data Engineer,In office,M,145000.0
+SE,Data Engineer,In office,M,115000.0
+SE,Research Scientist,In office,M,200000.0
+SE,Research Scientist,In office,M,150000.0
+EN,Research Engineer,In office,M,160000.0
+EN,Research Engineer,In office,M,120000.0
+SE,Data Analyst,Remote,M,185000.0
+SE,Data Analyst,Remote,M,120250.0
+SE,Data Scientist,Remote,M,275300.0
+SE,Data Scientist,Remote,M,183000.0
+SE,Data Architect,Remote,M,170000.0
+SE,Data Architect,Remote,M,125000.0
+MI,Data Architect,In office,M,167500.0
+MI,Data Architect,In office,M,106500.0
+SE,Research Scientist,In office,M,250000.0
+SE,Research Scientist,In office,M,200000.0
+MI,Machine Learning Engineer,Hybrid,L,135000.0
+SE,Machine Learning Engineer,Remote,M,216000.0
+SE,Machine Learning Engineer,Remote,M,184000.0
+SE,Data Engineer,Remote,M,180000.0
+SE,Data Engineer,Remote,M,165000.0
+SE,Data Scientist,In office,M,185900.0
+SE,Data Scientist,In office,M,129300.0
+SE,Data Engineer,In office,M,145000.0
+SE,Data Engineer,In office,M,120000.0
+MI,Data Engineer,In office,M,143865.0
+MI,Data Engineer,In office,M,115092.0
+MI,Machine Learning Engineer,In office,M,130000.0
+MI,Machine Learning Engineer,In office,M,90000.0
+SE,Data Scientist,Remote,M,173000.0
+SE,Data Scientist,Remote,M,132000.0
+SE,Data Analyst,In office,M,208049.0
+SE,Data Analyst,In office,M,128500.0
+SE,Analytics Engineer,In office,M,179820.0
+SE,Analytics Engineer,In office,M,143860.0
+SE,Data Engineer,In office,M,167500.0
+SE,Data Engineer,In office,M,106500.0
+SE,Data Scientist,Remote,M,275300.0
+SE,Data Scientist,Remote,M,183500.0
+MI,Data Engineer,In office,M,149600.0
+MI,Data Engineer,In office,M,102000.0
+EX,Data Scientist,In office,M,145000.0
+EX,Data Scientist,In office,M,100000.0
+SE,Data Analyst,Remote,M,190000.0
+SE,Data Analyst,Remote,M,95000.0
+SE,Data Analyst,In office,M,153600.0
+SE,Data Analyst,In office,M,106800.0
+MI,Data Analyst,In office,M,128000.0
+MI,Data Analyst,In office,M,85000.0
+MI,Data Engineer,In office,M,151000.0
+MI,Data Engineer,In office,M,140000.0
+SE,Data Scientist,Remote,M,275300.0
+SE,Data Scientist,Remote,M,183500.0
+SE,Machine Learning Scientist,In office,M,220000.0
+SE,Machine Learning Scientist,In office,M,170000.0
+SE,Data Analyst,In office,M,135000.0
+SE,Data Analyst,In office,M,105500.0
+SE,Data Analyst,Remote,M,100000.0
+SE,Data Analyst,Remote,M,80000.0
+MI,Data Analyst,In office,M,154000.0
+MI,Data Analyst,In office,M,143000.0
+EN,Data Scientist,In office,M,190000.0
+EN,Data Scientist,In office,M,120000.0
+SE,Data Engineer,In office,M,150000.0
+SE,Data Engineer,In office,M,111000.0
+EX,Data Engineer,In office,M,265000.0
+EX,Data Engineer,In office,M,235000.0
+SE,Data Engineer,Remote,M,160000.0
+SE,Data Engineer,Remote,M,130000.0
+MI,Data Engineer,Remote,M,75000.0
+MI,Data Engineer,Remote,M,60400.0
+EN,Data Analyst,Remote,M,85000.0
+EN,Data Analyst,Remote,M,75000.0
+SE,Data Engineer,In office,M,252000.0
+SE,Data Engineer,In office,M,129000.0
+EN,Data Engineer,Remote,M,92700.0
+EN,Data Engineer,Remote,M,61800.0
+MI,Data Analyst,Remote,M,83500.0
+MI,Data Analyst,Remote,M,52500.0
+SE,Data Scientist,In office,M,201036.0
+SE,Data Scientist,In office,M,134024.0
+SE,Data Analyst,Remote,M,165000.0
+SE,Data Analyst,Remote,M,140000.0
+EN,Data Engineer,Remote,M,62000.0
+EN,Data Engineer,Remote,M,58000.0
+SE,Data Scientist,In office,M,172000.0
+SE,Data Scientist,In office,M,115000.0
+EN,Data Engineer,In office,M,125000.0
+EN,Data Engineer,In office,M,90000.0
+SE,Data Engineer,In office,M,163800.0
+SE,Data Engineer,In office,M,126000.0
+SE,Data Scientist,Remote,M,237000.0
+SE,Data Scientist,Remote,M,145000.0
+MI,Data Engineer,Remote,M,90000.0
+MI,Data Engineer,Remote,M,90000.0
+SE,Data Engineer,In office,M,139500.0
+SE,Data Engineer,In office,M,109400.0
+MI,Data Engineer,In office,M,145000.0
+MI,Data Engineer,In office,M,120000.0
+SE,Data Engineer,In office,L,205600.0
+SE,Data Engineer,In office,L,105700.0
+SE,Data Engineer,In office,M,252000.0
+SE,Data Engineer,In office,M,129000.0
+SE,Data Scientist,In office,M,239748.0
+SE,Data Scientist,In office,M,159832.0
+SE,Data Scientist,Remote,M,186300.0
+SE,Data Scientist,Remote,M,102500.0
+SE,Data Engineer,In office,M,165000.0
+SE,Data Engineer,In office,M,132300.0
+SE,Data Scientist,In office,M,190000.0
+SE,Data Scientist,In office,M,126000.0
+SE,Data Architect,Remote,M,149040.0
+SE,Data Architect,Remote,M,113900.0
+SE,Data Engineer,Remote,M,153600.0
+SE,Data Engineer,Remote,M,106800.0
+SE,Data Engineer,Remote,M,172600.0
+SE,Data Engineer,Remote,M,107900.0
+SE,Data Analyst,In office,M,180180.0
+SE,Data Analyst,In office,M,106020.0
+SE,Data Architect,Remote,M,376080.0
+SE,Data Architect,Remote,M,213120.0
+SE,Data Analyst,In office,M,153600.0
+SE,Data Analyst,In office,M,100500.0
+SE,Data Analyst,Remote,M,206500.0
+SE,Data Analyst,Remote,M,121600.0
+SE,Data Engineer,In office,M,260000.0
+SE,Data Engineer,In office,M,225000.0
+EX,Data Engineer,In office,M,194500.0
+EX,Data Engineer,In office,M,115500.0
+SE,Cloud Database Engineer,Remote,L,170000.0
+SE,Applied Machine Learning Scientist,Remote,L,90000.0
+EN,Data Analyst,Remote,M,95000.0
+EN,Data Analyst,Remote,M,70000.0
+SE,Data Engineer,In office,M,275000.0
+SE,Data Engineer,In office,M,160000.0
+SE,Data Analyst,Remote,M,115934.0
+SE,Data Analyst,Remote,M,81666.0
+SE,Data Scientist,In office,M,175000.0
+SE,Data Scientist,In office,M,120000.0
+SE,Machine Learning Engineer,Remote,M,150000.0
+SE,Machine Learning Engineer,Remote,M,120000.0
+SE,Research Engineer,In office,M,200000.0
+SE,Research Engineer,In office,M,175000.0
+MI,Data Analyst,In office,M,206000.0
+MI,Data Analyst,In office,M,130000.0
+SE,Data Analyst,Remote,M,110000.0
+SE,Data Analyst,Remote,M,75000.0
+SE,Analytics Engineer,In office,M,130000.0
+SE,Analytics Engineer,In office,M,87000.0
+MI,Data Analyst,In office,M,160000.0
+MI,Data Analyst,In office,M,112000.0
+MI,Data Engineer,In office,M,162500.0
+MI,Data Engineer,In office,M,130000.0
+SE,Data Science Manager,In office,M,299500.0
+SE,Data Science Manager,In office,M,245100.0
+MI,Data Scientist,In office,M,145000.0
+MI,Data Scientist,In office,M,100000.0
+SE,Data Engineer,In office,M,147100.0
+SE,Data Engineer,In office,M,90700.0
+EN,Data Engineer,In office,M,115100.0
+EN,Data Engineer,In office,M,73900.0
+SE,Data Engineer,In office,M,168400.0
+SE,Data Engineer,In office,M,105200.0
+SE,Data Scientist,In office,M,210000.0
+SE,Data Scientist,In office,M,160000.0
+MI,Data Scientist,In office,M,145000.0
+MI,Data Scientist,In office,M,100000.0
+SE,Applied Scientist,In office,L,222200.0
+SE,Applied Scientist,In office,L,136000.0
+MI,Data Analyst,In office,M,100000.0
+MI,Data Analyst,In office,M,85000.0
+EX,Data Scientist,In office,M,200000.0
+EX,Data Scientist,In office,M,145000.0
+MI,Data Engineer,In office,M,140000.0
+MI,Data Engineer,In office,M,95000.0
+SE,Data Analyst,Remote,M,185000.0
+SE,Data Analyst,Remote,M,120250.0
+MI,Financial Data Analyst,Remote,L,130000.0
+SE,Data Scientist,In office,M,205000.0
+SE,Data Scientist,In office,M,140000.0
+SE,Data Scientist,Remote,M,297300.0
+SE,Data Scientist,Remote,M,198200.0
+SE,Research Scientist,In office,M,141288.0
+SE,Research Scientist,In office,M,94192.0
+SE,Data Infrastructure Engineer,Remote,M,184000.0
+SE,Data Infrastructure Engineer,Remote,M,143000.0
+SE,Data Analyst,In office,M,70000.0
+SE,Data Analyst,In office,M,55000.0
+SE,Analytics Engineer,Remote,M,275300.0
+SE,Analytics Engineer,Remote,M,183500.0
+MI,Data Analyst,Remote,M,75000.0
+MI,Data Analyst,Remote,M,65000.0
+MI,ML Engineer,In office,M,160000.0
+MI,ML Engineer,In office,M,147000.0
+SE,Data Architect,Remote,M,149040.0
+SE,Data Architect,Remote,M,113900.0
+SE,Data Analyst,In office,M,180180.0
+SE,Data Analyst,In office,M,106020.0
+MI,Machine Learning Engineer,In office,M,250000.0
+MI,Machine Learning Engineer,In office,M,150000.0
+SE,Data Engineer,In office,M,139500.0
+SE,Data Engineer,In office,M,109400.0
+SE,Data Scientist,In office,M,105000.0
+SE,Data Scientist,In office,M,70000.0
+EX,Data Engineer,Remote,M,210914.0
+EX,Data Engineer,Remote,M,116704.0
+EN,Research Scientist,In office,M,150000.0
+EN,Research Scientist,In office,M,100000.0
+SE,Data Engineer,In office,M,146000.0
+SE,Data Engineer,In office,M,75000.0
+EN,Data Analyst,Remote,M,75000.0
+EN,Data Analyst,Remote,M,60000.0
+MI,Analytics Engineer,In office,M,185700.0
+MI,Analytics Engineer,In office,M,165000.0
+SE,Data Engineer,Remote,M,160000.0
+SE,Data Engineer,Remote,M,130000.0
+SE,Data Analyst,In office,M,169000.0
+SE,Data Analyst,In office,M,110600.0
+SE,Data Operations Engineer,Remote,M,193000.0
+SE,Data Operations Engineer,Remote,M,136850.0
+SE,Machine Learning Engineer,In office,M,139500.0
+SE,Machine Learning Engineer,In office,M,109400.0
+SE,Data Engineer,Remote,M,276000.0
+SE,Data Engineer,Remote,M,178500.0
+SE,Data Engineer,In office,M,252000.0
+SE,Data Engineer,In office,M,129000.0
+SE,BI Developer,Remote,L,140920.0
+MI,Data Science Lead,Remote,M,170399.99999999997
+SE,Data Engineer,In office,M,163800.0
+SE,Data Engineer,In office,M,126000.0
+SE,Analytics Engineer,Remote,M,170000.0
+SE,Analytics Engineer,Remote,M,130000.0
+SE,Machine Learning Engineer,In office,M,247500.0
+SE,Machine Learning Engineer,In office,M,172200.0
+SE,Data Scientist,In office,M,239748.0
+SE,Data Scientist,In office,M,159832.0
+SE,Machine Learning Engineer,In office,M,163800.0
+SE,Machine Learning Engineer,In office,M,126000.0
+MI,Data Scientist,In office,M,128750.0
+MI,Data Scientist,In office,M,106250.0
+SE,Data Engineer,In office,M,252000.0
+SE,Data Engineer,In office,M,129000.0
+SE,Data Science Manager,In office,M,299500.0
+SE,Data Science Manager,In office,M,245100.0
+MI,Data Analytics Manager,In office,M,155000.0
+MI,Data Analytics Manager,In office,M,140000.0
+EX,Data Engineer,In office,M,167500.0
+EX,Data Engineer,In office,M,106500.0
+SE,Data Architect,Remote,M,188500.0
+SE,Data Architect,Remote,M,117000.0
+SE,Data Analyst,Remote,M,250000.0
+SE,Data Analyst,Remote,M,138000.0
+SE,Data Engineer,In office,M,140000.0
+SE,Data Engineer,In office,M,120000.0
+SE,BI Analyst,In office,M,160000.0
+SE,BI Analyst,In office,M,135000.0
+MI,Data Science Manager,In office,M,104500.0
+MI,Data Science Manager,In office,M,70000.0
+MI,Data Science Consultant,In office,M,90000.0
+MI,Data Science Consultant,In office,M,70000.0
+SE,Data Engineer,Remote,M,153600.0
+SE,Data Engineer,Remote,M,106800.0
+EN,Data Engineer,In office,M,125000.0
+EN,Data Engineer,In office,M,90000.0
+MI,Research Scientist,Remote,M,185000.0
+MI,Research Scientist,Remote,M,125000.0
+SE,Data Analyst,Remote,M,127000.0
+SE,Data Analyst,Remote,M,94000.0
+SE,Data Scientist,In office,M,210550.0
+SE,Data Scientist,In office,M,153300.0
+MI,Data Scientist,Remote,M,200000.0
+MI,Data Scientist,Remote,M,150000.0
+SE,Data Analyst,Remote,M,161500.0
+SE,Data Analyst,Remote,M,119500.0
+SE,Data Analyst,In office,M,175000.0
+SE,Data Analyst,In office,M,145000.0
+SE,Data Scientist,In office,M,175000.0
+SE,Data Scientist,In office,M,148750.0
+SE,Data Analytics Specialist,In office,M,105000.0
+SE,Data Analytics Specialist,In office,M,85000.0
+SE,Research Scientist,In office,M,215000.0
+SE,Research Scientist,In office,M,146300.0
+SE,Machine Learning Engineer,In office,M,153400.0
+SE,Machine Learning Engineer,In office,M,122700.0
+MI,Data Engineer,In office,M,260000.0
+MI,Data Engineer,In office,M,175000.0
+SE,Data Scientist,Remote,M,186300.0
+SE,Data Scientist,Remote,M,123900.0
+MI,Research Scientist,Remote,M,340000.0
+MI,Research Scientist,Remote,M,150000.0
+SE,Machine Learning Engineer,In office,M,153400.0
+SE,Machine Learning Engineer,In office,M,122700.0
+MI,Data Engineer,In office,M,250000.0
+MI,Data Engineer,In office,M,175000.0
+SE,Data Analyst,In office,M,185900.0
+SE,Data Analyst,In office,M,121700.0
+SE,Data Analyst,In office,M,153600.0
+SE,Data Analyst,In office,M,106800.0
+SE,Machine Learning Engineer,In office,M,247500.0
+SE,Machine Learning Engineer,In office,M,172200.0
+EX,Data Engineer,Remote,M,310000.0
+EX,Data Engineer,Remote,M,239000.0
+SE,Data Analyst,In office,M,125000.0
+SE,Data Analyst,In office,M,110000.0
+EN,Data Analyst,In office,M,150000.0
+EN,Data Analyst,In office,M,100000.0
+SE,Data Scientist,In office,M,149076.0
+SE,Data Scientist,In office,M,82365.0
+MI,Data Engineer,In office,M,146000.0
+MI,Data Engineer,In office,M,75000.0
+SE,Machine Learning Engineer,In office,M,139500.0
+SE,Machine Learning Engineer,In office,M,109400.0
+SE,Data Engineer,In office,M,139500.0
+SE,Data Engineer,In office,M,109400.0
+MI,Data Engineer,In office,M,149600.0
+MI,Data Engineer,In office,M,102000.0
+SE,Data Engineer,In office,M,252000.0
+SE,Data Engineer,In office,M,129000.0
+SE,Data Analyst,In office,M,95000.0
+SE,Data Analyst,In office,M,85500.0
+SE,Data Analyst,In office,M,185900.0
+SE,Data Analyst,In office,M,121700.0
+EN,Research Scientist,In office,M,150000.0
+EN,Research Scientist,In office,M,100000.0
+MI,Data Engineer,In office,M,145000.0
+MI,Data Engineer,In office,M,125000.0
+MI,Data Scientist,Remote,M,150000.0
+MI,Data Scientist,Remote,M,97750.0
+SE,Data Scientist,In office,M,201000.0
+SE,Data Scientist,In office,M,122000.0
+SE,Data Engineer,In office,M,252000.0
+SE,Data Engineer,In office,M,129000.0
+SE,Data Analyst,Remote,M,120000.0
+SE,Data Analyst,Remote,M,75000.0
+MI,Data Scientist,Remote,M,116990.0
+MI,Data Scientist,Remote,M,82920.0
+SE,Data Scientist,In office,M,185900.0
+SE,Data Scientist,In office,M,129300.0
+MI,Machine Learning Scientist,In office,S,200000.0
+MI,Machine Learning Scientist,In office,S,125000.0
+SE,Data Scientist,In office,M,201000.0
+SE,Data Scientist,In office,M,122000.0
+SE,Machine Learning Engineer,In office,M,204500.0
+SE,Machine Learning Engineer,In office,M,142200.0
+SE,Data Manager,In office,M,155000.0
+SE,Data Manager,In office,M,140000.0
+MI,Machine Learning Infrastructure Engineer,In office,M,205920.0
+MI,Machine Learning Infrastructure Engineer,In office,M,171600.0
+SE,Data Engineer,Remote,M,121500.0
+SE,Data Engineer,Remote,M,78000.0
+MI,Data Engineer,In office,M,154000.0
+MI,Data Engineer,In office,M,116000.0
+SE,Data Scientist,In office,M,190000.0
+SE,Data Scientist,In office,M,136000.0
+SE,Data Analyst,In office,M,180000.0
+SE,Data Analyst,In office,M,110000.0
+SE,Data Scientist,Remote,M,275300.0
+SE,Data Scientist,Remote,M,183000.0
+SE,Data Engineer,In office,M,170000.0
+SE,Data Engineer,In office,M,140000.0
+SE,Data Engineer,In office,M,154000.0
+SE,Data Engineer,In office,M,116000.0
+SE,Data Engineer,Remote,M,160000.0
+SE,Data Engineer,Remote,M,130000.0
+MI,Data Engineer,In office,M,200000.0
+MI,Data Engineer,In office,M,120000.0
+SE,Data Scientist,Remote,M,175000.0
+SE,Data Scientist,Remote,M,160000.0
+SE,Data Engineer,In office,M,153600.0
+SE,Data Engineer,In office,M,106800.0
+EN,Data Analyst,Remote,M,85000.0
+EN,Data Analyst,Remote,M,75000.0
+SE,Data Scientist,In office,M,225000.0
+SE,Data Scientist,In office,M,156400.0
+SE,Analytics Engineer,In office,M,150000.0
+SE,Analytics Engineer,In office,M,120000.0
+SE,Machine Learning Engineer,In office,M,163800.0
+SE,Machine Learning Engineer,In office,M,126000.0
+SE,Data Analyst,Remote,M,145000.0
+SE,Data Analyst,Remote,M,90000.0
+SE,Machine Learning Engineer,In office,M,204500.0
+SE,Machine Learning Engineer,In office,M,142200.0
+SE,Data Analyst,In office,M,95000.0
+SE,Data Analyst,In office,M,85500.0
+SE,Data Engineer,In office,M,167500.0
+SE,Data Engineer,In office,M,106500.0
+SE,Data Engineer,In office,M,163800.0
+SE,Data Engineer,In office,M,126000.0
+MI,Data Analytics Manager,In office,M,155000.0
+MI,Data Analytics Manager,In office,M,140000.0
+SE,Research Scientist,In office,M,250000.0
+SE,Research Scientist,In office,M,200000.0
+SE,Data Scientist,In office,M,260000.0
+SE,Data Scientist,In office,M,186000.0
+SE,Data Engineer,Remote,M,160000.0
+SE,Data Engineer,Remote,M,130000.0
+SE,Research Scientist,In office,M,200000.0
+SE,Research Scientist,In office,M,150000.0
+SE,Data Scientist,In office,M,150000.0
+SE,Data Scientist,In office,M,120000.0
+MI,Research Scientist,In office,M,185000.0
+MI,Research Scientist,In office,M,125000.0
+EN,Data Analyst,Remote,S,37202.880000000005
+SE,Data Analyst,Remote,M,175000.0
+SE,Data Analyst,Remote,M,130000.0
+SE,Data Analyst,Remote,M,122000.0
+SE,Data Analyst,Remote,M,93800.0
+SE,Data Analyst,Remote,M,165000.0
+SE,Data Analyst,Remote,M,112000.0
+EN,Computer Vision Engineer,In office,M,220000.0
+SE,Machine Learning Engineer,In office,M,204500.0
+SE,Machine Learning Engineer,In office,M,142200.0
+MI,Machine Learning Engineer,In office,M,200000.0
+MI,Machine Learning Engineer,In office,M,175000.0
+SE,Data Engineer,In office,M,185900.0
+SE,Data Engineer,In office,M,129300.0
+SE,Data Analyst,In office,M,185900.0
+SE,Data Analyst,In office,M,121700.0
+SE,Machine Learning Engineer,In office,M,204500.0
+SE,Machine Learning Engineer,In office,M,142200.0
+SE,Data Analyst,In office,M,180180.0
+SE,Data Analyst,In office,M,106020.0
+SE,Data Scientist,Remote,M,136000.0
+SE,Data Scientist,Remote,M,104000.0
+SE,Data Analyst,In office,M,125000.0
+SE,Data Analyst,In office,M,110000.0
+SE,Machine Learning Engineer,In office,M,153400.0
+SE,Machine Learning Engineer,In office,M,122700.0
+EX,Data Engineer,Remote,M,310000.0
+EX,Data Engineer,Remote,M,239000.0
+SE,Data Analyst,In office,M,152380.0
+SE,Data Analyst,In office,M,121904.0
+SE,Data Scientist,In office,M,185900.0
+SE,Data Scientist,In office,M,129300.0
+SE,Machine Learning Engineer,In office,M,247500.0
+SE,Machine Learning Engineer,In office,M,172200.0
+SE,Data Architect,In office,M,168400.0
+SE,Data Architect,In office,M,105200.0
+SE,Machine Learning Engineer,In office,M,128280.0
+SE,Machine Learning Engineer,In office,M,106900.0
+SE,Lead Data Scientist,Remote,L,208128.0
+MI,Data Engineer,In office,M,140000.0
+MI,Data Engineer,In office,M,100000.0
+SE,Data Engineer,In office,M,139500.0
+SE,Data Engineer,In office,M,109400.0
+SE,Machine Learning Engineer,In office,M,139500.0
+SE,Machine Learning Engineer,In office,M,109400.0
+SE,Data Analyst,Remote,M,170500.0
+SE,Data Analyst,Remote,M,85000.0
+SE,Data Engineer,In office,M,80000.0
+SE,Data Engineer,In office,M,65000.0
+SE,Data Engineer,In office,M,124740.0
+SE,Data Engineer,In office,M,65488.0
+SE,Data Quality Analyst,In office,M,72200.0
+SE,Data Quality Analyst,In office,M,64980.0
+SE,Data Engineer,In office,M,153600.0
+SE,Data Engineer,In office,M,106800.0
+SE,Data Analyst,Remote,M,179975.0
+SE,Data Analyst,Remote,M,86466.0
+SE,Data Engineer,In office,M,120000.0
+SE,Data Engineer,In office,M,90000.0
+SE,Data Scientist,In office,M,149076.0
+SE,Data Scientist,In office,M,82365.0
+SE,Data Analyst,In office,M,169000.0
+SE,Data Analyst,In office,M,110600.0
+SE,Data Science Manager,In office,M,175000.0
+SE,Data Science Manager,In office,M,120000.0
+SE,Data Analyst,In office,M,230000.0
+SE,Data Analyst,In office,M,180000.0
+SE,Data Analyst,In office,M,153600.0
+SE,Data Analyst,In office,M,106800.0
+SE,Data Manager,In office,M,140000.0
+SE,Data Manager,In office,M,120000.0
+SE,Machine Learning Infrastructure Engineer,In office,M,205920.0
+SE,Machine Learning Infrastructure Engineer,In office,M,171600.0
+SE,Data Analyst,Remote,M,165000.0
+SE,Data Analyst,Remote,M,125000.0
+SE,Data Engineer,In office,M,265000.0
+SE,Data Engineer,In office,M,185000.0
+MI,Applied Machine Learning Engineer,In office,M,130000.0
+EN,Data Scientist,Remote,M,182112.0
+SE,Data Analyst,In office,M,95000.0
+SE,Data Analyst,In office,M,85500.0
+SE,Data Scientist,In office,M,147100.0
+SE,Data Scientist,In office,M,90700.0
+SE,Data Engineer,In office,M,167580.0
+SE,Data Engineer,In office,M,87980.0
+SE,Data Engineer,Remote,M,202000.0
+SE,Data Engineer,Remote,M,135000.0
+SE,Data Engineer,In office,M,163800.0
+SE,Data Engineer,In office,M,126000.0
+SE,Machine Learning Engineer,In office,M,163800.0
+SE,Machine Learning Engineer,In office,M,126000.0
+SE,Data Engineer,Remote,M,104000.0
+SE,Data Engineer,Remote,M,65000.0
+SE,Research Engineer,In office,M,230000.0
+SE,Research Engineer,In office,M,148000.0
+SE,Analytics Engineer,In office,M,197000.0
+SE,Analytics Engineer,In office,M,106000.0
+MI,Deep Learning Engineer,Remote,M,150000.0
+MI,Deep Learning Engineer,Remote,M,100000.0
+SE,Data Engineer,Remote,M,290000.0
+SE,Data Engineer,Remote,M,210000.0
+SE,Data Engineer,In office,M,192000.0
+SE,Data Engineer,In office,M,172800.0
+SE,Data Scientist,In office,M,300240.0
+SE,Data Scientist,In office,M,200160.0
+SE,Data Scientist,In office,M,300240.0
+SE,Data Scientist,In office,M,200160.0
+SE,Analytics Engineer,In office,M,175000.0
+SE,Analytics Engineer,In office,M,140000.0
+SE,Data Manager,In office,M,169000.0
+SE,Data Manager,In office,M,100000.0
+SE,Data Scientist,In office,M,370000.0
+SE,Data Scientist,In office,M,245000.0
+SE,Data Analyst,Remote,S,110000.0
+SE,Data Analyst,Remote,S,80000.0
+EN,Data Analyst,In office,M,55000.0
+EN,Data Analyst,In office,M,48000.0
+SE,Data Analyst,In office,M,95000.0
+SE,Data Analyst,In office,M,85000.0
+SE,Data Engineer,Remote,M,137500.0
+SE,Data Engineer,Remote,M,81500.0
+SE,Machine Learning Engineer,In office,M,323300.0
+SE,Machine Learning Engineer,In office,M,184700.0
+SE,Machine Learning Engineer,Remote,M,186000.0
+SE,Machine Learning Engineer,Remote,M,153088.0
+MI,Data Infrastructure Engineer,Remote,M,190000.0
+MI,Data Infrastructure Engineer,Remote,M,160000.0
+SE,Machine Learning Engineer,Remote,M,200000.0
+SE,Machine Learning Engineer,Remote,M,150000.0
+MI,Data Infrastructure Engineer,In office,M,190000.0
+MI,Data Infrastructure Engineer,In office,M,183310.0
+SE,Machine Learning Engineer,Remote,M,240000.0
+SE,Machine Learning Engineer,Remote,M,180000.0
+SE,Machine Learning Engineer,Remote,M,200000.0
+SE,Machine Learning Engineer,Remote,M,150000.0
+SE,Data Science Manager,In office,M,299500.0
+SE,Data Science Manager,In office,M,245100.0
+SE,Data Engineer,Remote,M,144000.0
+SE,Data Engineer,Remote,M,66000.0
+MI,Machine Learning Engineer,In office,M,148500.0
+MI,Machine Learning Engineer,In office,M,126277.0
+SE,Data Architect,In office,M,228000.0
+SE,Data Architect,In office,M,120000.0
+SE,Machine Learning Software Engineer,In office,M,180000.0
+SE,Machine Learning Software Engineer,In office,M,90000.0
+SE,Data Scientist,In office,M,126500.0
+SE,Data Scientist,In office,M,78000.0
+SE,Data Engineer,In office,M,180000.0
+SE,Data Engineer,In office,M,160000.0
+SE,Machine Learning Software Engineer,In office,M,272000.0
+SE,Machine Learning Software Engineer,In office,M,170000.0
+MI,Data Analyst,In office,M,80000.0
+MI,Data Analyst,In office,M,60000.0
+SE,Data Engineer,Remote,M,259000.0
+SE,Data Engineer,Remote,M,146000.0
+SE,Data Engineer,In office,M,200000.0
+SE,Data Engineer,In office,M,160000.0
+EX,Data Engineer,Remote,M,310000.0
+EX,Data Engineer,Remote,M,239000.0
+SE,Data Analyst,Remote,M,142000.0
+SE,Data Analyst,Remote,M,95000.0
+SE,Data Scientist,In office,M,155000.0
+SE,Data Scientist,In office,M,139500.0
+MI,Data Engineer,Remote,M,140000.0
+MI,Data Engineer,Remote,M,120000.0
+SE,Data Engineer,Remote,M,259000.0
+SE,Data Engineer,Remote,M,146000.0
+SE,Data Science Lead,In office,M,247500.0
+SE,Data Science Lead,In office,M,172200.0
+SE,Data Scientist,In office,M,225000.0
+SE,Data Scientist,In office,M,156400.0
+SE,Data Engineer,In office,M,139500.0
+SE,Data Engineer,In office,M,109400.0
+MI,Data Engineer,In office,M,125000.0
+MI,Data Engineer,In office,M,90000.0
+SE,Data Scientist,In office,M,185900.0
+SE,Data Scientist,In office,M,129300.0
+SE,Machine Learning Engineer,In office,M,139500.0
+SE,Machine Learning Engineer,In office,M,109400.0
+SE,Data Analyst,Remote,M,120000.0
+SE,Data Analyst,Remote,M,75000.0
+SE,Data Analyst,In office,M,169000.0
+SE,Data Analyst,In office,M,110600.0
+SE,Machine Learning Engineer,Remote,M,288000.0
+SE,Machine Learning Engineer,Remote,M,140000.0
+SE,Machine Learning Engineer,Remote,M,288000.0
+SE,Machine Learning Engineer,Remote,M,140000.0
+MI,Data Engineer,In office,M,120000.0
+MI,Data Engineer,In office,M,90000.0
+SE,Data Scientist,Remote,M,215050.0
+SE,Data Scientist,Remote,M,156400.0
+SE,Data Architect,Remote,M,198000.0
+SE,Data Architect,Remote,M,114000.0
+EN,Data Analyst,Remote,M,75000.0
+EN,Data Analyst,Remote,M,60000.0
+SE,Machine Learning Engineer,In office,M,204500.0
+SE,Machine Learning Engineer,In office,M,142200.0
+SE,Data Scientist,Remote,M,209300.0
+SE,Data Scientist,Remote,M,182200.0
+SE,Data Manager,In office,M,140000.0
+SE,Data Manager,In office,M,120000.0
+EN,Data Scientist,In office,M,92140.0
+SE,Machine Learning Engineer,In office,M,147100.0
+SE,Machine Learning Engineer,In office,M,90700.0
+SE,Data Engineer,In office,M,230000.0
+SE,Data Engineer,In office,M,170000.0
+SE,Data Analyst,In office,M,227000.0
+SE,Data Analyst,In office,M,108000.0
+SE,Data Engineer,Remote,M,180000.0
+SE,Data Engineer,Remote,M,160000.0
+SE,Data Architect,Remote,M,180000.0
+SE,Data Architect,Remote,M,160000.0
+SE,Data Engineer,In office,M,180000.0
+SE,Data Engineer,In office,M,130000.0
+EN,Data Analyst,Remote,L,60000.0
+SE,Data Engineer,In office,M,226700.0
+SE,Data Engineer,In office,M,133300.0
+SE,Data Engineer,In office,M,252000.0
+SE,Data Engineer,In office,M,129000.0
+SE,Data Analyst,In office,M,80000.0
+SE,Data Analyst,In office,M,52500.0
+SE,Data Engineer,Remote,M,250000.0
+SE,Data Engineer,Remote,M,162500.0
+EN,Data Analyst,Remote,M,85000.0
+EN,Data Analyst,Remote,M,75000.0
+SE,Data Analyst,In office,M,153600.0
+SE,Data Analyst,In office,M,106800.0
+MI,Data Analyst,In office,M,165000.0
+MI,Data Analyst,In office,M,124000.0
+SE,Data Analyst,Remote,M,115934.0
+SE,Data Analyst,Remote,M,81666.0
+SE,Data Engineer,In office,M,167580.0
+SE,Data Engineer,In office,M,87980.0
+SE,Data Engineer,Remote,M,250000.0
+SE,Data Engineer,Remote,M,63000.0
+MI,Data Scientist,In office,M,170000.0
+MI,Data Scientist,In office,M,120000.0
+SE,Data Engineer,In office,M,124740.0
+SE,Data Engineer,In office,M,65488.0
+SE,Data Engineer,Remote,M,213580.0
+SE,Data Engineer,Remote,M,163625.0
+SE,Machine Learning Software Engineer,Remote,M,406500.0
+SE,Machine Learning Engineer,In office,M,220000.0
+SE,Machine Learning Engineer,In office,M,170000.0
+EX,Data Engineer,In office,M,235000.0
+EX,Data Engineer,In office,M,210000.0
+SE,Data Architect,Remote,M,180000.0
+SE,Data Architect,Remote,M,115000.0
+SE,Data Architect,Remote,M,200000.0
+SE,Data Architect,Remote,M,115000.0
+SE,Data Science Manager,Remote,M,231250.0
+SE,Data Science Manager,Remote,M,138750.0
+SE,Machine Learning Engineer,In office,M,284310.0
+SE,Machine Learning Engineer,In office,M,153090.0
+SE,Data Engineer,Remote,M,160000.0
+SE,Data Engineer,Remote,M,75000.0
+MI,Data Analyst,In office,M,125000.0
+MI,Data Analyst,In office,M,105000.0
+EN,Data Analyst,In office,M,55000.0
+EN,Data Analyst,In office,M,48000.0
+EN,Data Analyst,Hybrid,M,100000.0
+SE,Data Science Lead,In office,M,225900.0
+SE,Data Science Lead,In office,M,156400.0
+SE,Data Engineer,Remote,M,250000.0
+SE,Data Engineer,Remote,M,162500.0
+SE,Machine Learning Engineer,Remote,M,318300.0
+SE,Machine Learning Engineer,Remote,M,188800.0
+SE,Data Analyst,In office,M,385000.0
+SE,Data Analyst,In office,M,60000.0
+MI,Data Analyst,Remote,M,110000.0
+MI,Data Analyst,Remote,M,95000.0
+SE,Data Scientist,Remote,M,145000.0
+SE,Data Scientist,Remote,M,135000.0
+SE,Data Analyst,In office,M,180180.0
+SE,Data Analyst,In office,M,106020.0
+SE,Data Analyst,Remote,M,93919.0
+SE,Data Analyst,Remote,M,51962.0
+SE,Data Engineer,In office,M,241871.0
+SE,Data Engineer,In office,M,133832.0
+SE,Data Scientist,Remote,M,170000.0
+SE,Data Scientist,Remote,M,90000.0
+EX,Data Engineer,Remote,M,210914.0
+EX,Data Engineer,Remote,M,116704.0
+SE,Data Analyst,Remote,M,192500.0
+SE,Data Analyst,Remote,M,140000.0
+SE,Data Scientist,In office,M,149076.0
+SE,Data Scientist,In office,M,82365.0
+SE,Data Scientist,In office,M,175000.0
+SE,Data Scientist,In office,M,148750.0
+SE,Research Scientist,In office,M,370000.0
+SE,Research Scientist,In office,M,200000.0
+SE,Data Scientist,Remote,M,235000.0
+SE,Data Scientist,Remote,M,185000.0
+SE,Data Scientist,In office,M,216100.0
+SE,Data Scientist,In office,M,140800.0
+EN,Data Scientist,Hybrid,S,110000.0
+SE,Data Engineer,In office,M,128000.0
+SE,Data Engineer,In office,M,81500.0
+EX,Data Engineer,Remote,M,284000.0
+EX,Data Engineer,Remote,M,236000.0
+SE,Research Engineer,In office,M,155850.0
+SE,Research Engineer,In office,M,102544.0
+MI,Data Scientist,Remote,M,151410.0
+MI,Data Scientist,Remote,M,115360.0
+SE,Data Scientist,In office,M,250000.0
+SE,Data Scientist,In office,M,162500.0
+EN,Data Scientist,Remote,M,195120.0
+MI,Research Scientist,In office,M,85000.0
+MI,Research Scientist,In office,M,70000.0
+SE,BI Developer,Remote,M,135000.0
+SE,BI Developer,Remote,M,100000.0
+EX,Data Analytics Manager,In office,M,155000.0
+EX,Data Analytics Manager,In office,M,140000.0
+SE,Machine Learning Engineer,In office,M,204500.0
+SE,Machine Learning Engineer,In office,M,142200.0
+SE,Data Engineer,In office,M,226700.0
+SE,Data Engineer,In office,M,133300.0
+SE,Data Scientist,Remote,M,225000.0
+SE,Data Scientist,Remote,M,156400.0
+SE,Data Engineer,In office,M,163800.0
+SE,Data Engineer,In office,M,126000.0
+SE,Machine Learning Engineer,In office,M,163800.0
+SE,Machine Learning Engineer,In office,M,126000.0
+SE,ML Engineer,In office,M,220000.0
+SE,ML Engineer,In office,M,150000.0
+SE,Data Engineer,In office,M,145000.0
+SE,Data Engineer,In office,M,115000.0
+SE,Data Analytics Manager,In office,M,204500.0
+SE,Data Analytics Manager,In office,M,138900.0
+MI,Data Engineer,In office,M,162500.0
+MI,Data Engineer,In office,M,130000.0
+SE,Data Engineer,Remote,M,150000.0
+SE,Data Engineer,Remote,M,107000.0
+EX,Data Engineer,In office,M,175000.0
+EX,Data Engineer,In office,M,110000.0
+SE,Data Engineer,In office,M,226700.0
+SE,Data Engineer,In office,M,133300.0
+SE,Data Engineer,In office,M,252000.0
+SE,Data Engineer,In office,M,129000.0
+SE,Machine Learning Engineer,In office,M,150000.0
+SE,Machine Learning Engineer,In office,M,125000.0
+SE,Data Engineer,In office,M,252000.0
+SE,Data Engineer,In office,M,129000.0
+SE,Data Scientist,In office,M,225000.0
+SE,Data Scientist,In office,M,156400.0
+MI,Machine Learning Engineer,Remote,L,110000.0
+SE,Data Engineer,Remote,M,265000.0
+SE,Data Engineer,Remote,M,182750.0
+MI,Data Analyst,In office,M,130000.0
+MI,Data Analyst,In office,M,100000.0
+SE,Data Analyst,In office,M,153600.0
+SE,Data Analyst,In office,M,106800.0
+SE,Data Engineer,In office,M,137500.0
+SE,Data Engineer,In office,M,81500.0
+EX,Head of Data Science,In office,M,314100.0
+EX,Head of Data Science,In office,M,195800.0
+SE,Applied Scientist,In office,M,205000.0
+SE,Applied Scientist,In office,M,180000.0
+SE,Data Scientist,Remote,M,165000.0
+SE,Data Scientist,Remote,M,144000.0
+EN,BI Developer,In office,M,160000.0
+EN,BI Developer,In office,M,100000.0
+EX,Data Engineer,In office,M,200000.0
+EX,Data Engineer,In office,M,145000.0
+MI,Data Analyst,In office,M,150000.0
+MI,Data Analyst,In office,M,100000.0
+SE,Data Manager,In office,M,199000.0
+SE,Data Manager,In office,M,112000.0
+SE,Data Scientist,In office,M,105000.0
+SE,Data Scientist,In office,M,70000.0
+SE,Data Analyst,In office,M,180180.0
+SE,Data Analyst,In office,M,106020.0
+EN,Data Engineer,In office,M,160000.0
+EN,Data Engineer,In office,M,135000.0
+SE,Data Scientist,In office,M,183000.0
+SE,Data Scientist,In office,M,134000.0
+SE,Machine Learning Engineer,In office,M,220000.0
+SE,Machine Learning Engineer,In office,M,150000.0
+SE,Applied Scientist,In office,L,350000.0
+SE,Applied Scientist,In office,L,262500.0
+SE,Data Analyst,In office,M,122000.0
+SE,Data Analyst,In office,M,94000.0
+SE,Machine Learning Engineer,In office,M,276000.0
+SE,Machine Learning Engineer,In office,M,184000.0
+EX,Data Engineer,Remote,M,310000.0
+EX,Data Engineer,Remote,M,239000.0
+SE,Data Scientist,Remote,M,225000.0
+SE,Data Scientist,Remote,M,156400.0
+MI,Machine Learning Engineer,Remote,M,180000.0
+MI,Machine Learning Engineer,Remote,M,150000.0
+SE,Data Scientist,In office,M,228000.0
+SE,Data Scientist,In office,M,152000.0
+SE,Data Scientist,Remote,M,209450.0
+SE,Data Scientist,Remote,M,158677.0
+SE,Data Analyst,In office,M,175000.0
+SE,Data Analyst,In office,M,145000.0
+SE,Data Engineer,In office,M,240000.0
+SE,Data Engineer,In office,M,170000.0
+MI,Data Analyst,In office,M,103200.0
+MI,Data Analyst,In office,M,61200.0
+MI,Data Scientist,Remote,L,168020.0
+SE,Data Scientist,Remote,M,237000.0
+SE,Data Scientist,Remote,M,145000.0
+SE,Data Scientist,Remote,M,240000.0
+SE,Data Scientist,Remote,M,139000.0
+SE,Data Architect,In office,M,174500.0
+SE,Data Architect,In office,M,113000.0
+SE,Data Analyst,Remote,M,130000.0
+SE,Data Analyst,Remote,M,87000.0
+SE,Data Analyst,Remote,M,160000.0
+SE,Data Analyst,Remote,M,108000.0
+SE,Data Engineer,Remote,M,165000.0
+SE,Data Engineer,Remote,M,107250.0
+SE,Data Engineer,In office,M,300000.0
+SE,Data Engineer,In office,M,119000.0
+SE,Data Scientist,Remote,M,285800.0
+SE,Data Scientist,Remote,M,154600.0
+MI,Data Science Manager,In office,M,220000.0
+MI,Data Science Manager,In office,M,195000.0
+SE,Data Manager,In office,M,168400.0
+SE,Data Manager,In office,M,105200.0
+MI,Data Analyst,In office,M,206000.0
+MI,Data Analyst,In office,M,160000.0
+SE,Analytics Engineer,Remote,M,200000.0
+SE,Analytics Engineer,Remote,M,175000.0
+SE,Analytics Engineer,Remote,M,231250.0
+SE,Analytics Engineer,Remote,M,138750.0
+SE,Data Engineer,In office,L,240500.0
+SE,Data Engineer,In office,L,123700.0
+SE,Data Engineer,Remote,M,160000.0
+SE,Data Engineer,Remote,M,90000.0
+EN,Data Scientist,In office,M,124234.0
+EN,Data Scientist,In office,M,74540.0
+MI,Data Analyst,In office,M,109000.0
+MI,Data Analyst,In office,M,79000.0
+SE,Data Scientist,Remote,M,275300.0
+SE,Data Scientist,Remote,M,183500.0
+SE,Data Scientist,Remote,M,275300.0
+SE,Data Scientist,Remote,M,183500.0
+SE,Data Analyst,Remote,M,160000.0
+SE,Data Analyst,Remote,M,125600.0
+SE,Data Engineer,In office,M,170000.0
+SE,Data Engineer,In office,M,120000.0
+SE,Data Engineer,In office,M,225000.0
+SE,Data Engineer,In office,M,140000.0
+SE,Data Analyst,In office,M,141290.0
+SE,Data Analyst,In office,M,74178.0
+SE,Data Scientist,In office,M,150000.0
+SE,Data Scientist,In office,M,120000.0
+SE,Data Engineer,Remote,M,85000.0
+SE,Data Engineer,Remote,M,75000.0
+SE,Data Engineer,In office,M,220000.0
+SE,Data Engineer,In office,M,160000.0
+SE,Data Engineer,Remote,M,205600.0
+SE,Data Engineer,Remote,M,107500.0
+MI,Data Engineer,In office,M,120000.0
+MI,Data Engineer,In office,M,95000.0
+SE,Data Engineer,In office,M,185900.0
+SE,Data Engineer,In office,M,129300.0
+SE,Data Engineer,Remote,M,160000.0
+SE,Data Engineer,Remote,M,130000.0
+MI,Data Engineer,In office,M,250000.0
+MI,Data Engineer,In office,M,175000.0
+SE,Data Scientist,Remote,M,136000.0
+SE,Data Scientist,Remote,M,104000.0
+MI,Data Analyst,In office,M,80000.0
+MI,Data Analyst,In office,M,52500.0
+SE,Data Scientist,Remote,M,110000.0
+SE,Data Scientist,Remote,M,84000.0
+SE,BI Analyst,In office,M,125000.0
+SE,BI Analyst,In office,M,110000.0
+MI,Data Analyst,In office,M,90000.0
+MI,Data Analyst,In office,M,80000.0
+SE,ML Engineer,In office,M,200000.0
+SE,ML Engineer,In office,M,135000.0
+EN,Business Data Analyst,Hybrid,L,52032.0
+SE,Data Engineer,In office,M,130000.0
+SE,Data Engineer,In office,M,75000.0
+SE,Data Engineer,In office,M,252000.0
+SE,Data Engineer,In office,M,129000.0
+MI,Data Analyst,In office,M,150000.0
+MI,Data Analyst,In office,M,100000.0
+SE,Data Engineer,In office,M,226700.0
+SE,Data Engineer,In office,M,133300.0
+SE,Data Scientist,In office,M,190000.0
+SE,Data Scientist,In office,M,165000.0
+SE,Data Engineer,Remote,M,170000.0
+SE,Data Engineer,Remote,M,150000.0
+MI,Data Engineer,In office,M,150000.0
+MI,Data Engineer,In office,M,130000.0
+SE,Data Scientist,In office,M,225000.0
+SE,Data Scientist,In office,M,156400.0
+SE,Computer Vision Engineer,Remote,S,200000.0
+SE,Data Scientist,In office,M,257000.0
+SE,Data Scientist,In office,M,134000.0
+SE,Data Engineer,In office,L,205600.0
+SE,Data Engineer,In office,L,105700.0
+SE,BI Developer,Remote,M,140000.0
+SE,BI Developer,Remote,M,110000.0
+SE,Data Science Manager,In office,M,299500.0
+SE,Data Science Manager,In office,M,245100.0
+SE,Research Scientist,In office,M,210000.0
+SE,Research Scientist,In office,M,151800.0
+EN,Data Engineer,In office,M,160000.0
+EN,Data Engineer,In office,M,135000.0
+MI,Data Engineer,Remote,M,120000.0
+MI,Data Engineer,Remote,M,95000.0
+SE,Data Engineer,Remote,M,250000.0
+SE,Data Engineer,Remote,M,63000.0
+SE,Data Scientist,Remote,M,237000.0
+SE,Data Scientist,Remote,M,145000.0
+SE,Data Scientist,Remote,M,130000.0
+SE,Data Scientist,Remote,M,90000.0
+MI,Data Analyst,Remote,M,120000.0
+MI,Data Analyst,Remote,M,100000.0
+SE,Data Architect,In office,M,174500.0
+SE,Data Architect,In office,M,113000.0
+MI,Data Scientist,In office,M,183310.0
+MI,Data Scientist,In office,M,183310.0
+SE,Data Analyst,Remote,M,145000.0
+SE,Data Analyst,Remote,M,102500.0
+SE,Data Scientist,In office,M,210000.0
+SE,Data Scientist,In office,M,185000.0
+SE,Data Architect,In office,M,174500.0
+SE,Data Architect,In office,M,113000.0
+SE,Data Science Consultant,In office,M,122000.0
+SE,Data Science Consultant,In office,M,94000.0
+SE,Data Scientist,In office,M,220000.0
+SE,Data Scientist,In office,M,146000.0
+SE,Data Engineer,In office,M,300000.0
+SE,Data Engineer,In office,M,130000.0
+SE,Data Science Consultant,In office,M,145000.0
+SE,Data Science Consultant,In office,M,128000.0
+SE,Data Scientist,In office,M,182000.0
+SE,Data Scientist,In office,M,140000.0
+SE,Data Engineer,In office,M,122000.0
+SE,Data Engineer,In office,M,94000.0
+EX,Data Scientist,In office,M,300000.0
+EX,Data Scientist,In office,M,200000.0
+MI,Data Analyst,In office,M,135000.0
+MI,Data Analyst,In office,M,105500.0
+SE,Data Engineer,In office,M,252000.0
+SE,Data Engineer,In office,M,129000.0
+MI,Data Scientist,Remote,L,119240.00000000001
+SE,Data Scientist,Remote,M,136000.0
+SE,Data Scientist,Remote,M,104000.0
+SE,Data Scientist,Remote,M,168000.0
+SE,Data Scientist,Remote,M,130000.0
+MI,Data Engineer,In office,M,120000.0
+MI,Data Engineer,In office,M,95000.0
+SE,Data Scientist,In office,M,153400.0
+SE,Data Scientist,In office,M,122700.0
+SE,Data Scientist,In office,M,185000.0
+SE,Data Scientist,In office,M,160000.0
+SE,Data Scientist,Remote,M,205000.0
+SE,Data Scientist,Remote,M,185000.0
+SE,Machine Learning Engineer,In office,M,204500.0
+SE,Machine Learning Engineer,In office,M,142200.0
+MI,Machine Learning Engineer,In office,M,145000.0
+MI,Machine Learning Engineer,In office,M,87000.0
+SE,ML Engineer,Remote,M,234100.0
+SE,ML Engineer,Remote,M,203500.0
+SE,Data Scientist,In office,M,223800.0
+SE,Data Scientist,In office,M,172100.0
+SE,Data Scientist,In office,M,180000.0
+SE,Data Scientist,In office,M,150000.0
+SE,Data Engineer,Remote,M,232200.0
+SE,Data Engineer,Remote,M,167200.0
+SE,BI Developer,In office,M,197000.0
+SE,BI Developer,In office,M,106000.0
+SE,Research Scientist,In office,M,180000.0
+SE,Research Scientist,In office,M,145000.0
+SE,Data Lead,In office,M,225000.0
+SE,Data Lead,In office,M,200000.0
+SE,Data Engineer,Remote,M,170000.0
+SE,Data Engineer,Remote,M,114000.0
+SE,Data Engineer,In office,M,291500.0
+SE,Data Engineer,In office,M,180000.0
+EX,Data Engineer,In office,M,196200.0
+EX,Data Engineer,In office,M,150900.0
+SE,Data Scientist,In office,M,168400.0
+SE,Data Scientist,In office,M,105200.0
+MI,Data Analyst,In office,M,116000.0
+MI,Data Analyst,In office,M,72000.0
+SE,Analytics Engineer,In office,M,207000.0
+SE,Analytics Engineer,In office,M,167000.0
+SE,Machine Learning Engineer,In office,M,145000.0
+SE,Machine Learning Engineer,In office,M,135000.0
+MI,Data Engineer,In office,M,105000.0
+MI,Data Engineer,In office,M,70000.0
+SE,Data Architect,Remote,M,180000.0
+SE,Data Architect,Remote,M,115000.0
+SE,Data Engineer,Remote,M,133800.0
+SE,Data Engineer,Remote,M,96100.0
+MI,Data Analyst,In office,M,120000.0
+MI,Data Analyst,In office,M,80000.0
+SE,Data Science Engineer,In office,M,140000.0
+SE,Data Science Engineer,In office,M,100000.0
+SE,Research Scientist,In office,M,150000.0
+SE,Research Scientist,In office,M,120000.0
+SE,Cloud Database Engineer,Remote,M,140000.0
+SE,Cloud Database Engineer,Remote,M,115000.0
+SE,Data Science Manager,Remote,M,297300.0
+SE,Data Science Manager,Remote,M,198200.0
+SE,Data Scientist,Remote,M,297300.0
+SE,Data Scientist,Remote,M,198200.0
+SE,Data Engineer,Remote,M,202000.0
+SE,Data Engineer,Remote,M,135000.0
+SE,Data Scientist,Remote,M,110000.0
+SE,Data Scientist,Remote,M,84000.0
+MI,Machine Learning Engineer,Hybrid,L,219000.0
+SE,Applied Scientist,Remote,M,230000.0
+SE,Applied Scientist,Remote,M,196000.0
+SE,BI Developer,Remote,M,140000.0
+SE,BI Developer,Remote,M,110000.0
+MI,Data Analyst,In office,M,150000.0
+MI,Data Analyst,In office,M,100000.0
+SE,Data Engineer,In office,M,160000.0
+SE,Data Engineer,In office,M,110000.0
+SE,Data Scientist,In office,M,185900.0
+SE,Data Scientist,In office,M,129300.0
+SE,Applied Scientist,In office,L,126100.0
+SE,Applied Scientist,In office,L,72000.0
+SE,Data Engineer,Remote,M,170000.0
+SE,Data Engineer,Remote,M,150000.0
+MI,Machine Learning Engineer,Remote,M,175000.0
+MI,Machine Learning Engineer,Remote,M,140000.0
+SE,Data Analyst,In office,M,240500.0
+SE,Data Analyst,In office,M,137500.0
+MI,Data Scientist,In office,M,187500.0
+MI,Data Scientist,In office,M,165000.0
+SE,Research Scientist,In office,M,210000.0
+SE,Research Scientist,In office,M,165750.0
+SE,Machine Learning Scientist,Remote,M,225000.0
+SE,Machine Learning Scientist,Remote,M,165750.0
+SE,Data Scientist,Remote,M,135000.0
+SE,Data Scientist,Remote,M,115000.0
+SE,NLP Engineer,In office,M,275000.0
+SE,NLP Engineer,In office,M,175000.0
+SE,Data Scientist,Remote,M,170000.0
+SE,Data Scientist,Remote,M,140000.0
+SE,Data Engineer,In office,M,175308.0
+SE,Data Engineer,In office,M,100706.0
+SE,NLP Engineer,In office,M,235000.0
+SE,NLP Engineer,In office,M,135000.0
+SE,Data Engineer,In office,M,310000.0
+SE,Data Engineer,In office,M,229000.0
+SE,ML Engineer,In office,M,289076.0
+SE,ML Engineer,In office,M,202353.0
+MI,Research Engineer,Remote,M,120000.0
+MI,Research Engineer,Remote,M,100000.0
+SE,Data Engineer,In office,M,226700.0
+SE,Data Engineer,In office,M,133300.0
+SE,Data Analyst,In office,M,125000.0
+SE,Data Analyst,In office,M,85000.0
+SE,Data Analyst,Remote,M,130000.0
+SE,Data Analyst,Remote,M,80000.0
+MI,Data Engineer,In office,M,120000.0
+MI,Data Engineer,In office,M,100000.0
+SE,Data Engineer,Remote,M,231250.0
+SE,Data Engineer,Remote,M,138750.0
+SE,Data Engineer,In office,M,199000.0
+SE,Data Engineer,In office,M,162000.0
+EN,Data Engineer,In office,M,160000.0
+EN,Data Engineer,In office,M,135000.0
+EN,Data Scientist,Remote,M,108400.00000000001
+SE,Research Scientist,In office,M,200000.0
+SE,Research Scientist,In office,M,150000.0
+EN,Research Engineer,In office,M,160000.0
+EN,Research Engineer,In office,M,120000.0
+SE,Research Scientist,In office,M,250000.0
+SE,Research Scientist,In office,M,200000.0
+EN,Deep Learning Engineer,In office,M,150000.0
+EN,Deep Learning Engineer,In office,M,120000.0
+SE,Research Engineer,In office,M,150000.0
+SE,Research Engineer,In office,M,100000.0
+SE,Data Scientist,In office,M,272550.0
+SE,Data Scientist,In office,M,198200.0
+SE,Data Scientist,In office,M,182000.0
+SE,Data Scientist,In office,M,140000.0
+SE,Data Engineer,In office,M,200000.0
+SE,Data Engineer,In office,M,160000.0
+SE,Machine Learning Engineer,In office,M,204500.0
+SE,Machine Learning Engineer,In office,M,142200.0
+MI,Data Scientist,In office,M,120000.0
+MI,Data Scientist,In office,M,105000.0
+SE,Data Engineer,Remote,M,187500.0
+SE,Data Engineer,Remote,M,175000.0
+SE,Machine Learning Engineer,In office,M,204500.0
+SE,Machine Learning Engineer,In office,M,142200.0
+SE,Data Analyst,Remote,M,155000.0
+SE,Data Analyst,Remote,M,64000.0
+SE,Computer Vision Engineer,In office,M,235000.0
+SE,Computer Vision Engineer,In office,M,185000.0
+SE,Data Architect,In office,M,174500.0
+SE,Data Architect,In office,M,113000.0
+SE,Applied Scientist,Remote,M,184000.0
+SE,Applied Scientist,Remote,M,142000.0
+SE,Data Scientist,In office,M,140000.0
+SE,Data Scientist,In office,M,120000.0
+SE,Data Architect,In office,M,174500.0
+SE,Data Architect,In office,M,113000.0
+SE,Data Scientist,In office,M,180560.0
+SE,Data Scientist,In office,M,115440.0
+SE,Data Scientist,In office,M,140000.0
+SE,Data Scientist,In office,M,120000.0
+SE,Research Scientist,In office,M,248100.0
+SE,Research Scientist,In office,M,145900.0
+SE,Data Engineer,In office,M,291500.0
+SE,Data Engineer,In office,M,180000.0
+SE,Data Engineer,In office,M,161800.0
+SE,Data Engineer,In office,M,141600.0
+SE,Data Engineer,Remote,M,166000.0
+SE,Data Engineer,Remote,M,128000.0
+SE,Data Architect,Remote,M,170000.0
+SE,Data Architect,Remote,M,110000.0
+SE,Data Engineer,Remote,M,160000.0
+SE,Data Engineer,Remote,M,75000.0
+SE,Data Engineer,Remote,M,236000.0
+SE,Data Engineer,Remote,M,182000.0
+EN,Data Scientist,In office,M,140920.0
+MI,Data Analyst,In office,M,150000.0
+MI,Data Analyst,In office,M,100000.0
+SE,Machine Learning Engineer,In office,L,261500.0
+SE,Machine Learning Engineer,In office,L,134500.0
+MI,Data Scientist,In office,M,130000.0
+MI,Data Scientist,In office,M,90000.0
+EN,Data Engineer,In office,M,160000.0
+EN,Data Engineer,In office,M,135000.0
+SE,Manager Data Management,Remote,L,135500.0
+SE,Data Engineer,In office,M,189700.0
+SE,Data Engineer,In office,M,168020.0
+SE,Data Engineer,In office,M,166502.40000000002
+SE,Data Engineer,In office,M,115771.20000000001
+SE,Data Scientist,In office,M,162600.0
+SE,Data Scientist,In office,M,151760.0
+SE,Data Science Consultant,In office,M,132248.0
+SE,Data Science Consultant,In office,M,102438.0
+SE,Data Engineer,In office,M,184280.0
+SE,Data Engineer,In office,M,140920.0
+SE,Data Science Consultant,In office,M,157180.0
+SE,Data Science Consultant,In office,M,138752.0
+SE,Data Engineer,In office,M,157180.0
+SE,Data Engineer,In office,M,108400.00000000001
+SE,Data Engineer,In office,M,189700.0
+SE,Data Engineer,In office,M,130080.00000000001
+SE,Data Engineer,In office,M,157180.0
+SE,Data Engineer,In office,M,124660.00000000001
+SE,Applied Machine Learning Scientist,Remote,M,162600.0
+MI,Data Analyst,In office,M,162600.0
+MI,Data Analyst,In office,M,108400.00000000001
+MI,Data Scientist,Remote,M,162600.0
+MI,Data Scientist,Remote,M,138210.0
+SE,Data Scientist,Remote,M,137126.0
+SE,Data Scientist,Remote,M,55284.00000000001
+MI,Data Engineer,In office,M,281840.0
+MI,Data Engineer,In office,M,189700.0
+SE,Data Engineer,Remote,M,271000.0
+SE,Data Engineer,Remote,M,68292.0
+SE,Machine Learning Engineer,Remote,M,227640.00000000003
+SE,Machine Learning Engineer,Remote,M,173440.0
+SE,Data Scientist,Remote,M,295444.2
+SE,Data Scientist,Remote,M,214848.80000000002
+SE,Data Scientist,In office,M,238480.00000000003
+SE,Data Scientist,In office,M,158264.0
+MI,Data Analyst,In office,M,162600.0
+MI,Data Analyst,In office,M,108400.00000000001
+MI,Data Engineer,Remote,M,162600.0
+MI,Data Engineer,Remote,M,162600.0
+MI,Data Engineer,In office,M,130080.00000000001
+MI,Data Engineer,In office,M,102980.0
+EN,Data Engineer,In office,M,173440.0
+EN,Data Engineer,In office,M,146340.0
+SE,Data Engineer,Remote,M,234144.00000000003
+SE,Data Engineer,Remote,M,156096.0
+EN,Data Engineer,In office,M,92140.0
+EN,Data Engineer,In office,M,70460.0
+SE,Data Analyst,Remote,M,161516.0
+SE,Data Analyst,Remote,M,128996.00000000001
+SE,Data Scientist,In office,M,151760.0
+SE,Data Scientist,In office,M,130080.00000000001
+MI,Data Scientist,In office,M,162600.0
+MI,Data Scientist,In office,M,119240.00000000001
+SE,Machine Learning Engineer,Remote,M,266664.0
+SE,Machine Learning Engineer,Remote,M,217884.00000000003
+SE,Data Scientist,In office,M,205960.0
+SE,Data Scientist,In office,M,168020.0
+SE,ML Engineer,Remote,M,254740.00000000003
+SE,ML Engineer,Remote,M,200540.0
+SE,Cloud Database Engineer,Remote,M,205960.0
+SE,Cloud Database Engineer,Remote,M,173440.0
+EN,Product Data Analyst,Remote,M,108400.00000000001
+MI,Data Engineer,In office,M,140920.0
+MI,Data Engineer,In office,M,124660.00000000001
+MI,Data Engineer,In office,M,113820.00000000001
+MI,Data Engineer,In office,M,75880.0
+SE,Machine Learning Engineer,In office,M,221678.00000000003
+SE,Machine Learning Engineer,In office,M,154144.80000000002
+SE,Machine Learning Engineer,Remote,M,208128.0
+SE,Machine Learning Engineer,Remote,M,177776.0
+SE,Data Engineer,In office,M,201515.6
+SE,Data Engineer,In office,M,140161.2
+SE,Data Engineer,In office,M,140920.0
+SE,Data Engineer,In office,M,81300.0
+SE,Data Science Manager,In office,M,189700.0
+SE,Data Science Manager,In office,M,130080.00000000001
+SE,Data Engineer,In office,M,181570.0
+SE,Data Engineer,In office,M,115446.00000000001
+MI,Data Analyst,Remote,M,81300.0
+MI,Data Analyst,Remote,M,65040.00000000001
+SE,Applied Scientist,Remote,M,199456.0
+SE,Applied Scientist,Remote,M,153928.0
+MI,Data Scientist,In office,M,157180.0
+MI,Data Scientist,In office,M,108400.00000000001
+SE,Data Engineer,In office,M,189700.0
+SE,Data Engineer,In office,M,130080.00000000001
+SE,Data Engineer,In office,M,189700.0
+SE,Data Engineer,In office,M,130080.00000000001
+EX,Data Engineer,In office,M,216800.00000000003
+EX,Data Engineer,In office,M,157180.0
+SE,Data Engineer,In office,M,157180.0
+SE,Data Engineer,In office,M,108400.00000000001
+SE,Applied Scientist,Remote,M,208128.0
+SE,Applied Scientist,Remote,M,177776.0
+EX,Data Engineer,Remote,M,336040.0
+EX,Data Engineer,Remote,M,259076.00000000003
+SE,Data Analyst,In office,M,130080.00000000001
+SE,Data Analyst,In office,M,102980.0
+SE,Machine Learning Engineer,In office,M,157180.0
+SE,Machine Learning Engineer,In office,M,146340.0
+SE,Data Engineer,In office,M,108400.00000000001
+SE,Data Engineer,In office,M,84552.0
+MI,Data Engineer,Remote,M,173440.0
+MI,Data Engineer,Remote,M,130080.00000000001
+SE,Data Scientist,In office,M,205960.0
+SE,Data Scientist,In office,M,162600.0
+SE,Data Engineer,In office,M,130080.00000000001
+SE,Data Engineer,In office,M,102980.0
+MI,Data Analyst,In office,M,162600.0
+MI,Data Analyst,In office,M,108400.00000000001
+SE,Data Analyst,Remote,M,125672.456
+SE,Data Analyst,Remote,M,88525.944
+SE,Data Scientist,Remote,M,189700.0
+SE,Data Scientist,Remote,M,151760.0
+SE,Data Engineer,In office,M,130080.00000000001
+SE,Data Engineer,In office,M,102980.0
+SE,Research Engineer,In office,M,270458.0
+SE,Research Engineer,In office,M,162437.40000000002
+MI,Analytics Engineer,Remote,M,132790.0
+MI,Analytics Engineer,Remote,M,108400.00000000001
+SE,Data Scientist,In office,M,270458.0
+SE,Data Scientist,In office,M,162437.40000000002
+EN,Data Analyst,In office,M,59620.00000000001
+EN,Data Analyst,In office,M,52032.0
+SE,Research Scientist,In office,M,270458.0
+SE,Research Scientist,In office,M,162437.40000000002
+SE,Data Engineer,Remote,M,205960.0
+SE,Data Engineer,Remote,M,130080.00000000001
+SE,Data Analyst,Remote,M,137668.0
+SE,Data Analyst,Remote,M,112736.00000000001
+SE,Data Scientist,Remote,M,227640.00000000003
+SE,Data Scientist,Remote,M,162600.0
+SE,Machine Learning Engineer,Remote,M,227640.00000000003
+SE,Machine Learning Engineer,Remote,M,162600.0
+SE,Data Engineer,Remote,M,227640.00000000003
+SE,Data Engineer,Remote,M,140920.0
+SE,Data Scientist,Remote,M,198101.0
+SE,Data Scientist,Remote,M,175066.0
+MI,Data Analyst,Remote,M,111261.76000000001
+MI,Data Analyst,Remote,M,71652.40000000001
+SE,Research Scientist,Remote,M,227640.00000000003
+SE,Research Scientist,Remote,M,162600.0
+SE,Data Engineer,In office,M,215499.2
+SE,Data Engineer,In office,M,132898.40000000002
+MI,Data Engineer,Remote,M,140920.0
+MI,Data Engineer,Remote,M,86720.0
+SE,Data Scientist,Remote,M,147424.0
+SE,Data Scientist,Remote,M,112736.00000000001
+SE,Data Analyst,Remote,M,162600.0
+SE,Data Analyst,Remote,M,108400.00000000001
+EN,Data Engineer,In office,M,173440.0
+EN,Data Engineer,In office,M,146340.0
+SE,Data Engineer,Remote,M,234144.00000000003
+SE,Data Engineer,Remote,M,156096.0
+EX,Data Scientist,Remote,M,172356.0
+EX,Data Scientist,Remote,M,140920.0
+SE,Data Analyst,Remote,M,125672.456
+SE,Data Analyst,Remote,M,88525.944
+SE,Data Engineer,Remote,M,233060.00000000003
+SE,Data Engineer,Remote,M,162600.0
+SE,Machine Learning Engineer,Remote,M,266664.0
+SE,Machine Learning Engineer,Remote,M,217884.00000000003
+MI,Data Engineer,Remote,M,202708.0
+MI,Data Engineer,Remote,M,165852.0
+SE,Data Analyst,In office,M,183196.0
+SE,Data Analyst,In office,M,119890.40000000001
+SE,BI Developer,Remote,M,151760.0
+SE,BI Developer,Remote,M,130080.00000000001
+MI,Data Analyst,Remote,M,81300.0
+MI,Data Analyst,Remote,M,65040.00000000001
+EN,Data Analyst,Hybrid,L,54200.00000000001
+MI,MLOps Engineer,Remote,M,145256.0
+MI,MLOps Engineer,Remote,M,134416.0
+SE,Data Analyst,In office,M,180702.80000000002
+SE,Data Analyst,In office,M,128996.00000000001
+EN,Data Scientist,In office,M,134669.65600000002
+EN,Data Scientist,In office,M,80801.36
+MI,Data Analyst,Remote,M,108400.00000000001
+MI,Data Analyst,Remote,M,70460.0
+SE,Data Engineer,Remote,M,238480.00000000003
+SE,Data Engineer,Remote,M,158264.0
+SE,Data Specialist,In office,M,119240.00000000001
+SE,Data Specialist,In office,M,75880.0
+EN,Data Analyst,Hybrid,L,54200.00000000001
+SE,Data Engineer,In office,M,130080.00000000001
+SE,Data Engineer,In office,M,102980.0
+MI,Data Analyst,In office,M,162600.0
+MI,Data Analyst,In office,M,108400.00000000001
+SE,Data Architect,Remote,M,205960.0
+SE,Data Architect,Remote,M,146340.0
+SE,Data Scientist,In office,M,138752.0
+SE,Data Scientist,In office,M,88346.0
+SE,Data Scientist,Remote,M,187532.0
+SE,Data Scientist,Remote,M,119240.00000000001
+SE,Machine Learning Engineer,In office,M,208128.0
+SE,Machine Learning Engineer,In office,M,130080.00000000001
+SE,Data Analyst,Remote,M,125672.456
+SE,Data Analyst,Remote,M,88525.944
+SE,Data Analyst,In office,M,130080.00000000001
+SE,Data Analyst,In office,M,102980.0
+SE,Principal Machine Learning Engineer,Remote,L,205960.0
+SE,Data Engineer,Remote,M,210296.0
+SE,Data Engineer,Remote,M,140269.6
+SE,Data Analyst,Remote,M,217884.00000000003
+SE,Data Analyst,Remote,M,96692.8
+SE,Data Scientist,In office,M,178860.0
+SE,Data Scientist,In office,M,135500.0
+SE,Applied Scientist,Remote,M,249320.00000000003
+SE,Applied Scientist,Remote,M,212464.00000000003
+MI,Machine Learning Engineer,In office,M,140920.0
+MI,Machine Learning Engineer,In office,M,97560.0
+MI,Machine Learning Researcher,Remote,M,162600.0
+MI,Machine Learning Researcher,Remote,M,108400.00000000001
+MI,Machine Learning Engineer,In office,M,249320.00000000003
+MI,Machine Learning Engineer,In office,M,162600.0
+SE,Data Engineer,In office,M,166502.40000000002
+SE,Data Engineer,In office,M,115771.20000000001
+MI,Machine Learning Researcher,Remote,M,140920.0
+MI,Machine Learning Researcher,Remote,M,108400.00000000001
+SE,Data Engineer,Remote,M,234144.00000000003
+SE,Data Engineer,Remote,M,156096.0
+MI,Data Scientist,In office,M,195120.0
+MI,Data Scientist,In office,M,130080.00000000001
+EN,Data Engineer,In office,M,173440.0
+EN,Data Engineer,In office,M,146340.0
+SE,Data Analyst,Remote,M,208670.0
+SE,Data Analyst,Remote,M,151760.0
+SE,Data Engineer,In office,M,165310.0
+SE,Data Engineer,In office,M,140920.0
+SE,Data Analyst,Remote,M,70460.0
+SE,Data Analyst,Remote,M,59620.00000000001
+SE,Data Engineer,In office,M,193765.0
+SE,Data Engineer,In office,M,173440.0
+MI,Machine Learning Scientist,In office,M,178860.0
+MI,Machine Learning Scientist,In office,M,146340.0
+SE,Analytics Engineer,Remote,M,184280.0
+SE,Analytics Engineer,Remote,M,135500.0
+SE,Data Engineer,In office,M,113820.00000000001
+SE,Data Engineer,In office,M,75880.0
+SE,Data Scientist,In office,M,140920.0
+SE,Data Scientist,In office,M,102980.0
+SE,Data Scientist,In office,M,220594.00000000003
+SE,Data Scientist,In office,M,164768.0
+SE,Data Engineer,Remote,M,214014.12000000002
+SE,Data Engineer,Remote,M,146079.84
+MI,Data Scientist,Remote,M,130080.00000000001
+SE,Data Engineer,In office,M,213548.00000000003
+SE,Data Engineer,In office,M,107316.00000000001
+SE,Data Engineer,Remote,M,238480.00000000003
+SE,Data Engineer,Remote,M,175608.0
+SE,Data Architect,Remote,M,161559.36000000002
+SE,Data Architect,Remote,M,123467.6
+MI,Business Data Analyst,In office,M,109221.5
+SE,Data Analyst,Remote,S,130639.99999999999
+SE,Data Engineer,In office,M,108400.00000000001
+SE,Data Engineer,In office,M,84552.0
+SE,Data Engineer,In office,M,130080.00000000001
+SE,Data Engineer,In office,M,102980.0
+SE,Data Specialist,In office,M,119240.00000000001
+SE,Data Specialist,In office,M,75880.0
+SE,Data Scientist,In office,M,201515.6
+SE,Data Scientist,In office,M,140161.2
+MI,Data Analyst,In office,M,162600.0
+MI,Data Analyst,In office,M,108400.00000000001
+SE,Data Engineer,Remote,M,249320.00000000003
+SE,Data Engineer,Remote,M,167586.40000000002
+SE,Machine Learning Engineer,In office,M,221678.00000000003
+SE,Machine Learning Engineer,In office,M,154144.80000000002
+MI,Data Engineer,Remote,M,173440.0
+MI,Data Engineer,Remote,M,81300.0
+SE,Data Engineer,In office,M,230892.00000000003
+SE,Data Engineer,In office,M,164768.0
+SE,Data Scientist,Remote,M,151760.0
+SE,Data Scientist,Remote,M,130080.00000000001
+SE,Data Scientist,In office,M,119240.00000000001
+SE,Data Scientist,In office,M,75880.0
+SE,ML Engineer,Remote,M,263412.0
+SE,ML Engineer,Remote,M,198372.0
+SE,Data Engineer,In office,M,189700.0
+SE,Data Engineer,In office,M,162600.0
+MI,Data Scientist,Remote,M,140920.0
+MI,Data Scientist,Remote,M,97560.0
+MI,Data Analyst,In office,M,178860.0
+MI,Data Analyst,In office,M,134416.0
+SE,Data Engineer,In office,M,325200.0
+SE,Data Engineer,In office,M,140920.0
+SE,Data Analyst,In office,M,183196.0
+SE,Data Analyst,In office,M,119890.40000000001
+SE,Data Analyst,Remote,M,125744.00000000001
+SE,Data Analyst,Remote,M,104064.0
+SE,Data Analyst,In office,M,113820.00000000001
+SE,Data Analyst,In office,M,75880.0
+SE,Data Engineer,Remote,M,210296.0
+SE,Data Engineer,Remote,M,140269.6
+SE,Data Architect,Remote,M,205960.0
+SE,Data Architect,Remote,M,146340.0
+SE,Data Analyst,In office,M,108400.00000000001
+SE,Data Analyst,In office,M,75880.0
+EN,Machine Learning Engineer,In office,M,205689.0
+EN,Machine Learning Engineer,In office,M,152031.0
+SE,Data Analyst,In office,M,140920.0
+SE,Data Analyst,In office,M,108400.00000000001
+MI,Data Analyst,In office,M,173440.0
+MI,Data Analyst,In office,M,118156.00000000001
+SE,Research Engineer,In office,M,271000.0
+SE,Research Engineer,In office,M,162600.0
+MI,Data Analyst,In office,M,223304.00000000003
+MI,Data Analyst,In office,M,173440.0
+SE,Data Engineer,In office,M,146340.0
+SE,Data Engineer,In office,M,130080.00000000001
+EN,Data Engineer,In office,M,173440.0
+EN,Data Engineer,In office,M,146340.0
+MI,Data Analyst,In office,M,162600.0
+MI,Data Analyst,In office,M,108400.00000000001
+MI,Data Engineer,In office,M,130080.00000000001
+MI,Data Engineer,In office,M,102980.0
+SE,Data Engineer,In office,M,207260.80000000002
+SE,Data Engineer,In office,M,140920.0
+SE,Data Engineer,In office,M,207260.80000000002
+SE,Data Engineer,In office,M,140920.0
+SE,Data Engineer,In office,L,249320.00000000003
+SE,Data Engineer,In office,L,167586.40000000002
+SE,Data Engineer,In office,M,130080.00000000001
+SE,Data Engineer,In office,M,102980.0
+SE,Data Scientist,In office,M,151760.0
+SE,Data Scientist,In office,M,130080.00000000001
+SE,Data Analyst,In office,M,183196.0
+SE,Data Analyst,In office,M,119890.40000000001
+MI,Data Analyst,Remote,L,86720.0
+SE,Data Engineer,In office,M,201515.6
+SE,Data Engineer,In office,M,140161.2
+SE,Analytics Engineer,In office,M,146340.0
+SE,Analytics Engineer,In office,M,119240.00000000001
+MI,Data Analytics Manager,In office,M,168020.0
+MI,Data Analytics Manager,In office,M,151760.0
+SE,Data Engineer,Remote,M,222220.00000000003
+SE,Data Engineer,Remote,M,162600.0
+SE,Data Engineer,In office,M,194578.0
+SE,Data Engineer,In office,M,145256.0
+MI,Data Scientist,In office,M,195120.0
+MI,Data Scientist,In office,M,130080.00000000001
+SE,Data Scientist,In office,M,201515.6
+SE,Data Scientist,In office,M,140161.2
+SE,Data Scientist,Remote,M,189700.0
+SE,Data Scientist,Remote,M,157180.0
+SE,Data Architect,Remote,M,254740.00000000003
+SE,Data Architect,Remote,M,189700.0
+MI,Data Engineer,Remote,M,173440.0
+MI,Data Engineer,Remote,M,97560.0
+SE,Data Engineer,In office,M,157180.0
+SE,Data Engineer,In office,M,124660.00000000001
+MI,Data Specialist,In office,M,178860.0
+MI,Data Specialist,In office,M,146340.0
+SE,Data Engineer,In office,M,182545.6
+SE,Data Engineer,In office,M,114036.8
+SE,Data Engineer,In office,M,216800.00000000003
+SE,Data Engineer,In office,M,173440.0
+SE,Data Scientist,In office,M,215499.2
+SE,Data Scientist,In office,M,132898.40000000002
+SE,Data Analyst,In office,M,140920.0
+SE,Data Analyst,In office,M,108400.00000000001
+SE,Data Engineer,Remote,M,135500.0
+SE,Data Engineer,Remote,M,119240.00000000001
+MI,Data Analyst,In office,M,178860.0
+MI,Data Analyst,In office,M,134416.0
+SE,Data Scientist,Remote,M,160432.0
+SE,Data Scientist,Remote,M,115988.00000000001
+MI,Data Analyst,In office,M,162600.0
+MI,Data Analyst,In office,M,108400.00000000001
+EN,Data Engineer,In office,M,173440.0
+EN,Data Engineer,In office,M,146340.0
+MI,Data Engineer,In office,M,130080.00000000001
+MI,Data Engineer,In office,M,102980.0
+SE,Data Engineer,In office,M,166502.40000000002
+SE,Data Engineer,In office,M,115771.20000000001
+MI,Data Engineer,In office,M,130080.00000000001
+MI,Data Engineer,In office,M,102980.0
+EX,Data Engineer,Remote,M,336040.0
+EX,Data Engineer,Remote,M,259076.00000000003
+SE,Data Science Manager,In office,M,324658.0
+SE,Data Science Manager,In office,M,265688.4
+SE,Data Scientist,Remote,M,182112.0
+SE,Data Scientist,Remote,M,140920.0
+SE,Data Scientist,Remote,M,147424.0
+SE,Data Scientist,Remote,M,112736.00000000001
+MI,Data Engineer,Remote,M,174524.0
+MI,Data Engineer,Remote,M,127912.00000000001
+SE,Applied Scientist,Remote,M,222220.00000000003
+SE,Applied Scientist,Remote,M,199456.0
+SE,Data Scientist,In office,M,201515.6
+SE,Data Scientist,In office,M,140161.2
+SE,Data Science Manager,In office,M,268290.0
+SE,Data Science Manager,In office,M,186664.80000000002
+SE,Data Analyst,In office,M,191868.0
+SE,Data Analyst,In office,M,142004.0
+SE,Applied Scientist,Remote,M,222220.00000000003
+SE,Applied Scientist,Remote,M,199456.0
+SE,Data Engineer,In office,M,158264.0
+SE,Data Engineer,In office,M,110568.00000000001
+SE,Data Analyst,In office,M,183196.0
+SE,Data Analyst,In office,M,119890.40000000001
+SE,Applied Scientist,Remote,M,249320.00000000003
+SE,Applied Scientist,Remote,M,212464.00000000003
+SE,Data Engineer,In office,M,146340.0
+SE,Data Engineer,In office,M,108400.00000000001
+MI,Data Engineer,In office,M,86720.0
+MI,Data Engineer,In office,M,70460.0
+SE,Data Engineer,In office,M,146340.0
+SE,Data Engineer,In office,M,108400.00000000001
+MI,Data Engineer,Remote,M,189700.0
+MI,Data Engineer,Remote,M,146340.0
+EN,Data Scientist,In office,M,86720.0
+SE,Data Engineer,Remote,M,250675.00000000003
+SE,Data Engineer,Remote,M,150405.0
+SE,Analytics Engineer,Remote,M,210025.0
+SE,Analytics Engineer,Remote,M,126015.00000000001
+SE,Data Engineer,Remote,M,250675.00000000003
+SE,Data Engineer,Remote,M,150405.0
+SE,Analytics Engineer,Remote,M,250675.00000000003
+SE,Analytics Engineer,Remote,M,150405.0
+SE,Analytics Engineer,Remote,M,250675.00000000003
+SE,Analytics Engineer,Remote,M,150405.0
+SE,Data Engineer,Remote,M,210025.0
+SE,Data Engineer,Remote,M,126015.00000000001
+SE,Data Scientist,Remote,M,225472.00000000003
+SE,Data Scientist,Remote,M,137668.0
+SE,Research Scientist,Remote,M,325200.0
+SE,Research Scientist,Remote,M,212464.00000000003
+SE,Machine Learning Engineer,In office,M,221678.00000000003
+SE,Machine Learning Engineer,In office,M,154144.80000000002
+SE,Data Engineer,In office,M,201515.6
+SE,Data Engineer,In office,M,140161.2
+SE,Machine Learning Engineer,In office,M,221678.00000000003
+SE,Machine Learning Engineer,In office,M,154144.80000000002
+SE,Data Scientist,Remote,M,222220.00000000003
+SE,Data Scientist,Remote,M,200540.0
+SE,Data Scientist,In office,M,201515.6
+SE,Data Scientist,In office,M,140161.2
+SE,Machine Learning Engineer,In office,M,268290.0
+SE,Machine Learning Engineer,In office,M,186664.80000000002
+EN,Data Engineer,In office,M,173440.0
+EN,Data Engineer,In office,M,146340.0
+MI,Data Analyst,In office,M,162600.0
+MI,Data Analyst,In office,M,108400.00000000001
+SE,Data Analyst,In office,M,119240.00000000001
+SE,Data Analyst,In office,M,102980.0
+SE,Data Scientist,In office,M,201515.6
+SE,Data Scientist,In office,M,140161.2
+SE,Applied Scientist,Remote,M,222220.00000000003
+SE,Applied Scientist,Remote,M,199456.0
+SE,Data Science Tech Lead,Hybrid,L,406500.0
+SE,Data Engineer,In office,M,207260.80000000002
+SE,Data Engineer,In office,M,140920.0
+SE,Data Scientist,In office,M,243900.00000000003
+SE,Data Scientist,In office,M,169537.6
+SE,Data Analyst,In office,M,183196.0
+SE,Data Analyst,In office,M,119890.40000000001
+SE,Machine Learning Engineer,In office,M,221678.00000000003
+SE,Machine Learning Engineer,In office,M,154144.80000000002
+SE,Data Scientist,In office,M,201515.6
+SE,Data Scientist,In office,M,140161.2
+SE,Data Scientist,In office,M,152518.80000000002
+SE,Data Scientist,In office,M,101679.20000000001
+SE,Data Scientist,Remote,M,379400.0
+SE,Data Scientist,Remote,M,146340.0
+SE,Data Analyst,Remote,M,125672.456
+SE,Data Analyst,Remote,M,88525.944
+SE,Machine Learning Engineer,In office,M,217884.00000000003
+SE,Machine Learning Engineer,In office,M,128996.00000000001
+SE,Data Engineer,Remote,M,189700.0
+SE,Data Engineer,Remote,M,162600.0
+SE,Data Analyst,In office,M,167543.04
+SE,Data Analyst,In office,M,134034.432
+SE,Data Analyst,In office,M,140920.0
+SE,Data Analyst,In office,M,108400.00000000001
+MI,Data Engineer,In office,M,184280.0
+MI,Data Engineer,In office,M,157180.0
+SE,Data Engineer,Remote,M,146340.0
+SE,Data Engineer,Remote,M,108400.00000000001
+SE,Data Scientist,In office,M,268290.0
+SE,Data Scientist,In office,M,186664.80000000002
+SE,Data Scientist,Remote,M,192410.0
+SE,Data Scientist,Remote,M,145256.0
+SE,Data Scientist,In office,M,201515.6
+SE,Data Scientist,In office,M,140161.2
+SE,Data Architect,Remote,M,208739.37600000002
+SE,Data Architect,Remote,M,157021.736
+SE,Data Analyst,In office,M,140920.0
+SE,Data Analyst,In office,M,113820.00000000001
+SE,Data Engineer,Remote,M,194366.62000000002
+SE,Data Engineer,Remote,M,154065.668
+SE,Data Engineer,Remote,M,341460.0
+SE,Data Engineer,Remote,M,243900.00000000003
+SE,Data Scientist,Remote,M,264387.60000000003
+SE,Data Scientist,Remote,M,169754.40000000002
+MI,Data Analyst,In office,M,223304.00000000003
+MI,Data Analyst,In office,M,173440.0
+MI,Data Analyst,In office,M,118156.00000000001
+MI,Data Analyst,In office,M,85636.0
+MI,Data Analyst,In office,M,173440.0
+MI,Data Analyst,In office,M,118156.00000000001
+SE,Data Engineer,Remote,M,197830.0
+SE,Data Engineer,Remote,M,139294.0
+MI,Data Engineer,Remote,M,173440.0
+MI,Data Engineer,Remote,M,97560.0
+EN,Data Manager,Remote,M,83793.20000000001
+EN,Data Manager,Remote,M,49430.4
+SE,Data Analyst,Remote,M,137668.0
+SE,Data Analyst,Remote,M,119240.00000000001
+SE,Data Architect,Remote,M,227640.00000000003
+SE,Data Architect,Remote,M,147424.0
+SE,Data Engineer,Remote,M,184280.0
+SE,Data Engineer,Remote,M,151760.0
+SE,Data Engineer,In office,M,268290.0
+SE,Data Engineer,In office,M,186664.80000000002
+SE,Data Engineer,In office,M,243900.00000000003
+SE,Data Engineer,In office,M,199564.40000000002
+MI,Machine Learning Engineer,In office,M,140920.0
+MI,Machine Learning Engineer,In office,M,97560.0
+MI,Data Scientist,Remote,M,130080.00000000001
+MI,Data Scientist,Remote,M,108400.00000000001
+MI,Data Scientist,Remote,M,92140.0
+MI,Data Scientist,Remote,M,84552.0
+SE,Data Engineer,Remote,M,174524.0
+SE,Data Engineer,Remote,M,119240.00000000001
+SE,Data Scientist,Remote,M,147424.0
+SE,Data Scientist,Remote,M,112736.00000000001
+EX,Head of Data,In office,M,222220.00000000003
+EX,Head of Data,In office,M,173440.0
+SE,Data Analyst,In office,M,183196.0
+SE,Data Analyst,In office,M,119890.40000000001
+SE,Data Engineer,In office,M,173440.0
+SE,Data Engineer,In office,M,140920.0
+SE,Data Scientist,In office,M,265580.0
+SE,Data Scientist,In office,M,195120.0
+SE,Data Engineer,In office,M,146340.0
+SE,Data Engineer,In office,M,108400.00000000001
+SE,Data Engineer,In office,M,238480.00000000003
+SE,Data Engineer,In office,M,162600.0
+SE,Data Scientist,In office,L,215108.96000000002
+SE,Data Scientist,In office,L,156096.0
+SE,Data Engineer,In office,M,260160.00000000003
+SE,Data Engineer,In office,M,184280.0
+SE,Data Scientist,In office,M,215108.96000000002
+SE,Data Scientist,In office,M,156096.0
+MI,Data Analyst,Remote,M,162600.0
+MI,Data Analyst,Remote,M,108400.00000000001
+SE,Data Analyst,In office,M,130080.00000000001
+SE,Data Analyst,In office,M,102980.0
+EN,Data Analyst,Remote,L,69376.0
+SE,Data Analyst,In office,M,162600.0
+SE,Data Analyst,In office,M,137668.0
+SE,Data Engineer,Remote,M,298100.0
+SE,Data Engineer,Remote,M,179944.0
+SE,Data Scientist,In office,M,173113.71600000001
+SE,Data Scientist,In office,M,150608.79200000002
+EN,BI Analyst,Hybrid,L,82384.0
+SE,Data Analyst,In office,M,180702.80000000002
+SE,Data Analyst,In office,M,128996.00000000001
+SE,Data Analyst,In office,M,140920.0
+SE,Data Analyst,In office,M,108400.00000000001
+SE,Data Analyst,In office,M,86720.0
+SE,Data Analyst,In office,M,56910.00000000001
+SE,Data Engineer,Remote,M,255824.00000000003
+SE,Data Engineer,Remote,M,197288.0
+SE,Data Scientist,Remote,M,195120.0
+SE,Data Scientist,Remote,M,151760.0
+SE,Data Scientist,In office,M,243900.00000000003
+SE,Data Scientist,In office,M,169537.6
+SE,Data Analyst,Remote,M,146340.0
+SE,Data Analyst,Remote,M,108400.00000000001
+SE,Machine Learning Engineer,In office,M,221678.00000000003
+SE,Machine Learning Engineer,In office,M,154144.80000000002
+MI,Research Engineer,Remote,M,260160.00000000003
+SE,Data Engineer,In office,M,325200.0
+SE,Data Engineer,In office,M,140920.0
+SE,Data Engineer,Remote,M,211380.0
+SE,Data Engineer,Remote,M,189700.0
+SE,Data Engineer,In office,M,168020.0
+SE,Data Engineer,In office,M,119240.00000000001
+SE,Data Operations Analyst,In office,M,133332.0
+SE,Data Operations Analyst,In office,M,99999.0
+SE,Data Engineer,In office,M,184280.0
+SE,Data Engineer,In office,M,162600.0
+MI,ML Engineer,Remote,M,195120.0
+MI,ML Engineer,Remote,M,108400.00000000001
+SE,Data Engineer,Remote,M,105148.0
+SE,Data Engineer,Remote,M,97560.0
+SE,Data Engineer,In office,M,216800.00000000003
+SE,Data Engineer,In office,M,173440.0
+SE,Machine Learning Engineer,Remote,M,227640.00000000003
+SE,Machine Learning Engineer,Remote,M,195120.0
+SE,Data Engineer,In office,M,281840.0
+SE,Data Engineer,In office,M,195120.0
+EX,Analytics Engineer,Remote,M,227640.00000000003
+EX,Analytics Engineer,Remote,M,170188.0
+EN,Data Scientist,Remote,M,195120.0
+EN,Data Scientist,Remote,M,108400.00000000001
+MI,Data Analyst,In office,M,86720.0
+MI,Data Analyst,In office,M,56910.00000000001
+SE,Data Architect,In office,M,138752.0
+SE,Data Architect,In office,M,88346.0
+SE,Data Operations Engineer,In office,M,113820.00000000001
+SE,Data Operations Engineer,In office,M,75880.0
+SE,Data Scientist,In office,M,189700.0
+SE,Data Scientist,In office,M,132790.0
+SE,Data Engineer,In office,M,185364.0
+SE,Data Engineer,In office,M,126828.00000000001
+SE,Data Scientist,In office,L,219835.2
+SE,Data Scientist,In office,L,113061.20000000001
+SE,Data Engineer,In office,M,213548.00000000003
+SE,Data Engineer,In office,M,107316.00000000001
+SE,Data Engineer,In office,M,173440.0
+SE,Data Engineer,In office,M,119240.00000000001
+SE,Data Scientist,In office,M,201515.6
+SE,Data Scientist,In office,M,140161.2
+SE,Data Engineer,In office,M,184280.0
+SE,Data Engineer,In office,M,140920.0
+SE,Data Analyst,In office,M,162600.0
+SE,Data Analyst,In office,M,102980.0
+SE,Data Architect,In office,M,374630.4
+SE,Data Architect,In office,M,249753.6
+SE,Data Engineer,In office,M,157180.0
+SE,Data Engineer,In office,M,124660.00000000001
+SE,Data Analyst,Remote,M,190729.80000000002
+SE,Data Analyst,Remote,M,140974.2
+SE,Data Engineer,In office,L,222870.40000000002
+SE,Data Engineer,In office,L,114578.8
+SE,Data Analyst,Remote,M,256474.40000000002
+SE,Data Analyst,Remote,M,96692.8
+EN,Data Scientist,Remote,L,86720.0
+SE,Data Science Lead,Hybrid,S,178860.0
+SE,Data Engineer,In office,M,201515.6
+SE,Data Engineer,In office,M,140161.2
+SE,Data Analyst,In office,M,183196.0
+SE,Data Analyst,In office,M,119890.40000000001
+SE,Data Engineer,In office,M,243900.00000000003
+SE,Data Engineer,In office,M,199564.40000000002
+SE,Data Scientist,In office,M,201515.6
+SE,Data Scientist,In office,M,140161.2
+SE,Data Scientist,In office,M,243900.00000000003
+SE,Data Scientist,In office,M,169537.6
+SE,Data Scientist,In office,M,201515.6
+SE,Data Scientist,In office,M,140161.2
+EN,Machine Learning Engineer,In office,S,117072.00000000001
+SE,Data Scientist,Remote,M,168020.0
+SE,Data Scientist,Remote,M,41192.0
+MI,Data Analyst,In office,M,92140.0
+MI,Data Analyst,In office,M,70460.0
+SE,Data Scientist,Remote,M,168020.0
+SE,Data Scientist,Remote,M,41192.0
+SE,Data Scientist,Remote,M,166502.40000000002
+SE,Data Scientist,Remote,M,115771.20000000001
+SE,Data Scientist,Remote,M,200540.0
+SE,Data Scientist,Remote,M,54200.00000000001
+SE,Data Engineer,In office,M,201515.6
+SE,Data Engineer,In office,M,140161.2
+SE,Data Scientist,Remote,M,168020.0
+SE,Data Scientist,Remote,M,41192.0
+SE,Data Scientist,Remote,M,182112.0
+SE,Data Scientist,Remote,M,140920.0
+SE,Data Scientist,In office,M,133765.6
+SE,Data Scientist,In office,M,95500.40000000001
+SE,Data Scientist,Remote,S,130080.00000000001
+SE,Data Scientist,Remote,S,59620.00000000001
+SE,Data Scientist,In office,M,201515.6
+SE,Data Scientist,In office,M,140161.2
+SE,Data Engineer,In office,M,207260.80000000002
+SE,Data Engineer,In office,M,140920.0
+SE,Data Analyst,In office,M,183196.0
+SE,Data Analyst,In office,M,119890.40000000001
+SE,Analytics Engineer,In office,M,162600.0
+SE,Analytics Engineer,In office,M,130080.00000000001
+SE,Data Science Consultant,In office,M,150676.0
+SE,Data Science Consultant,In office,M,132248.0
+SE,Data Scientist,In office,M,201515.6
+SE,Data Scientist,In office,M,140161.2
+SE,Data Analyst,In office,M,151326.40000000002
+SE,Data Analyst,In office,M,92898.8
+SE,Data Engineer,Remote,M,200540.0
+SE,Data Engineer,Remote,M,54200.00000000001
+SE,Data Engineer,In office,M,201515.6
+SE,Data Engineer,In office,M,140161.2
+SE,Data Scientist,In office,M,243900.00000000003
+SE,Data Scientist,In office,M,169537.6
+SE,Data Scientist,Remote,M,216800.00000000003
+SE,Data Scientist,Remote,M,189700.0
+SE,Data Engineer,In office,M,201515.6
+SE,Data Engineer,In office,M,140161.2
+MI,ML Engineer,Remote,L,160974.0
+MI,ML Engineer,Remote,L,106448.8
+SE,Data Analyst,Remote,M,124660.00000000001
+SE,Data Analyst,Remote,M,102980.0
+SE,Data Architect,Remote,M,243900.00000000003
+SE,Data Architect,Remote,M,71544.0
+SE,Data Scientist,Remote,M,200540.0
+SE,Data Scientist,Remote,M,54200.00000000001
+MI,Data Manager,In office,M,145256.0
+MI,Data Manager,In office,M,106232.00000000001
+MI,Data Analyst,In office,M,113820.00000000001
+MI,Data Analyst,In office,M,67208.0
+EN,BI Data Analyst,Remote,L,61788.00000000001
+MI,Data Scientist,Remote,M,156312.80000000002
+MI,Data Scientist,Remote,M,125050.24
+SE,Data Engineer,Remote,M,184280.0
+SE,Data Engineer,Remote,M,162600.0
+SE,Data Architect,Remote,M,195120.0
+SE,Data Architect,Remote,M,173440.0
+MI,Data Scientist,Hybrid,L,117072.00000000001
+SE,Machine Learning Manager,Remote,M,216800.00000000003
+SE,Machine Learning Manager,Remote,M,162600.0
+SE,Data Engineer,Remote,M,204550.80000000002
+SE,Data Engineer,Remote,M,173868.18000000002
+SE,Data Analyst,Remote,M,125672.456
+SE,Data Analyst,Remote,M,88525.944
+SE,Data Engineer,In office,M,325200.0
+SE,Data Engineer,In office,M,243900.00000000003
+SE,Data Scientist,Remote,M,215108.96000000002
+SE,Data Scientist,Remote,M,156096.0
+SE,Applied Scientist,Remote,M,207558.90000000002
+SE,Applied Scientist,Remote,M,153413.1
+SE,Lead Data Scientist,Remote,L,170044.912
+SE,Data Scientist,In office,L,215108.96000000002
+SE,Data Scientist,In office,L,156096.0
+SE,Data Analyst,Remote,M,97560.0
+SE,Data Engineer,Remote,M,216800.00000000003
+SE,Data Engineer,Remote,M,195120.0
+MI,Analytics Engineer,Remote,M,117072.00000000001
+MI,Analytics Engineer,Remote,M,92140.0
+SE,Machine Learning Engineer,Remote,M,227640.00000000003
+SE,Machine Learning Engineer,Remote,M,195120.0
+SE,Data Engineer,Remote,M,178860.0
+SE,Data Engineer,Remote,M,143088.0
+SE,Analytics Engineer,Remote,M,140920.0
+SE,Analytics Engineer,Remote,M,119240.00000000001
+MI,Data Analytics Engineer,Remote,L,146340.0
+SE,Data Engineer,Remote,L,193819.2
+SE,Data Engineer,Remote,L,143196.40000000002
+SE,Data Engineer,Remote,M,173440.0
+SE,Data Engineer,Remote,M,92140.0
+SE,ETL Developer,Remote,M,271000.0
+SE,ETL Developer,Remote,M,68292.0
+EX,Data Engineer,Remote,M,202924.80000000002
+EX,Data Engineer,Remote,M,125852.40000000001
+SE,Data Engineer,Remote,M,216800.00000000003
+SE,Data Engineer,Remote,M,157180.0
+SE,Data Engineer,In office,L,249317.83200000002
+SE,Data Engineer,In office,L,167526.78
+SE,Data Scientist,In office,L,233060.00000000003
+SE,Data Scientist,In office,L,172356.0
+SE,Data Engineer,In office,L,249317.83200000002
+SE,Data Engineer,In office,L,167526.78
+EN,AI Scientist,Remote,M,54200.00000000001
+SE,Data Scientist Lead,Remote,L,198372.0
+SE,Data Analyst,Remote,M,108129.00000000001
+SE,Data Analyst,Remote,M,74145.6
+SE,Data Scientist,Remote,L,256799.6
+SE,Data Scientist,Remote,L,172572.80000000002
+SE,Data Science Manager,Remote,M,263655.9
+SE,Data Science Manager,Remote,M,194876.1
+SE,Data Engineer,Remote,M,189700.0
+SE,Data Engineer,Remote,M,162600.0
+SE,Machine Learning Engineer,Remote,M,227640.00000000003
+SE,Machine Learning Engineer,Remote,M,195120.0
+SE,Data Scientist,Remote,M,160432.0
+SE,Data Scientist,Remote,M,138752.0
+SE,Data Architect,Remote,M,205960.0
+SE,Data Architect,Remote,M,146340.0
+SE,Analytics Engineer,Remote,M,140920.0
+SE,Analytics Engineer,Remote,M,119240.00000000001
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Engineer,Remote,M,173440.0
+SE,Data Engineer,Remote,M,92140.0
+SE,Data Scientist,In office,M,236312.00000000003
+SE,Data Scientist,In office,M,157505.2
+SE,ML Engineer,Remote,L,211813.6
+SE,ML Engineer,Remote,L,142329.2
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Scientist,Remote,M,224388.00000000003
+SE,Data Scientist,Remote,M,165852.0
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Analyst,In office,M,119240.00000000001
+SE,Data Analyst,In office,M,107316.00000000001
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Scientist,Remote,M,224388.00000000003
+SE,Data Scientist,Remote,M,165852.0
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Engineer,In office,M,212138.80000000002
+SE,Data Engineer,In office,M,141462.0
+SE,ML Engineer,Remote,M,140920.0
+SE,ML Engineer,Remote,M,91056.0
+MI,Data Operations Engineer,Remote,M,108400.00000000001
+MI,Data Operations Engineer,Remote,M,65040.00000000001
+SE,Data Engineer,In office,M,153169.2
+SE,Data Engineer,In office,M,110676.40000000001
+MI,Business Data Analyst,Remote,L,162600.0
+SE,Data Analyst,Remote,M,156096.0
+SE,Data Analyst,Remote,M,122492.00000000001
+SE,Data Architect,Remote,L,211813.6
+SE,Data Architect,Remote,L,142329.2
+SE,Machine Learning Engineer,Remote,L,211813.6
+SE,Machine Learning Engineer,Remote,L,142329.2
+SE,Data Architect,Remote,L,211813.6
+SE,Data Architect,Remote,L,142329.2
+SE,Data Architect,Remote,M,205960.0
+SE,Data Architect,Remote,M,146340.0
+SE,Data Engineer,Remote,M,146340.0
+SE,Data Engineer,Remote,M,86720.0
+SE,Data Engineer,Remote,M,173440.0
+SE,Data Engineer,Remote,M,92140.0
+SE,Data Engineer,Remote,L,193819.2
+SE,Data Engineer,Remote,L,143196.40000000002
+SE,Data Engineer,Remote,M,151760.0
+SE,Data Engineer,Remote,M,113820.00000000001
+SE,Analytics Engineer,Remote,M,205960.0
+SE,Analytics Engineer,Remote,M,151760.0
+MI,Data Operations Engineer,Remote,M,108400.00000000001
+MI,Data Operations Engineer,Remote,M,65040.00000000001
+SE,Data Scientist,Remote,L,195120.0
+SE,Data Scientist,Remote,L,178860.0
+SE,Applied Machine Learning Scientist,In office,L,117072.00000000001
+SE,Data Architect,Remote,M,205960.0
+SE,Data Architect,Remote,M,146340.0
+SE,Data Scientist,In office,M,194469.6
+SE,Data Scientist,In office,M,166936.0
+SE,Machine Learning Scientist,In office,M,210187.6
+SE,Machine Learning Scientist,In office,M,140161.2
+EX,Data Science Manager,In office,M,241341.76
+EX,Data Science Manager,In office,M,197461.44
+MI,Data Engineer,In office,M,162600.0
+MI,Data Engineer,In office,M,108400.00000000001
+SE,Analytics Engineer,Remote,M,132790.0
+SE,Analytics Engineer,Remote,M,108400.00000000001
+EX,Data Engineer,Remote,M,322490.0
+EX,Data Engineer,Remote,M,281840.0
+EN,Data Scientist,In office,M,100812.0
+EN,Data Scientist,In office,M,79132.0
+MI,Data Operations Engineer,Remote,M,108400.00000000001
+MI,Data Operations Engineer,Remote,M,65040.00000000001
+SE,Data Scientist,Remote,M,148501.496
+SE,Data Scientist,Remote,M,110101.88
+SE,ETL Developer,Remote,M,271000.0
+SE,ETL Developer,Remote,M,68292.0
+MI,Data Manager,In office,M,145256.0
+MI,Data Manager,In office,M,106232.00000000001
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+MI,Data Analyst,Remote,M,147424.0
+MI,Data Analyst,Remote,M,121408.00000000001
+SE,Data Scientist,Remote,M,186448.0
+SE,Data Scientist,Remote,M,151760.0
+SE,Data Engineer,In office,M,233060.00000000003
+SE,Data Engineer,In office,M,177776.0
+SE,Data Engineer,In office,M,325200.0
+SE,Data Engineer,In office,M,140920.0
+SE,Data Engineer,Remote,M,271000.0
+SE,Data Engineer,Remote,M,68292.0
+SE,Data Engineer,Remote,M,195120.0
+SE,Data Engineer,Remote,M,162600.0
+SE,Data Engineer,Remote,M,271000.0
+SE,Data Engineer,Remote,M,68292.0
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+MI,Data Analyst,Remote,L,105690.0
+SE,Applied Scientist,Remote,M,230675.2
+SE,Applied Scientist,Remote,M,154795.2
+SE,Data Scientist,In office,M,164551.2
+SE,Data Scientist,In office,M,141180.16
+SE,Analytics Engineer,Remote,M,178860.0
+SE,Analytics Engineer,Remote,M,152031.0
+SE,Data Engineer,In office,M,146340.0
+SE,Data Engineer,In office,M,124660.00000000001
+SE,Data Scientist,Remote,M,194469.6
+SE,Data Scientist,Remote,M,166936.0
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+MI,Financial Data Analyst,In office,M,81300.0
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Scientist,In office,M,207558.90000000002
+SE,Data Scientist,In office,M,153413.1
+SE,Data Analyst,In office,L,124660.00000000001
+SE,Data Operations Analyst,Remote,M,87804.0
+SE,Data Operations Analyst,Remote,M,71544.0
+EN,Data Analyst,Remote,L,49864.0
+EN,Data Engineer,Remote,L,86720.0
+EX,Machine Learning Scientist,Remote,S,216800.00000000003
+EX,Machine Learning Scientist,Remote,S,195120.0
+EX,AI Scientist,Remote,S,216800.00000000003
+SE,Data Scientist,In office,M,221244.40000000002
+SE,Data Scientist,In office,M,147532.40000000002
+SE,Analytics Engineer,In office,M,271000.0
+SE,Analytics Engineer,In office,M,68292.0
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Scientist,Remote,M,207558.90000000002
+SE,Data Scientist,Remote,M,153413.1
+SE,Data Specialist,Remote,M,102980.0
+SE,Data Specialist,Remote,M,75880.0
+MI,Data Analyst,In office,L,122492.00000000001
+SE,Data Scientist,Remote,M,184280.0
+SE,Data Scientist,Remote,M,140920.0
+MI,Data Analytics Consultant,Remote,L,122492.00000000001
+MI,Product Data Analyst,Remote,M,151760.0
+SE,Data Scientist,In office,M,189700.0
+SE,Data Scientist,In office,M,151760.0
+SE,Analytics Engineer,In office,M,271000.0
+SE,Analytics Engineer,In office,M,68292.0
+SE,Data Scientist,In office,L,173440.0
+SE,Data Scientist,In office,L,129321.20000000001
+MI,Research Scientist,Hybrid,L,157180.0
+SE,Data Engineer,In office,M,113820.00000000001
+SE,Data Engineer,In office,M,97560.0
+SE,ETL Developer,Remote,M,158480.80000000002
+SE,ETL Developer,Remote,M,134708.68000000002
+MI,Data Scientist,In office,M,243900.00000000003
+MI,Data Scientist,In office,M,173440.0
+SE,Analytics Engineer,In office,M,265580.0
+SE,Analytics Engineer,In office,M,195120.0
+SE,Analytics Engineer,In office,M,220594.00000000003
+SE,Analytics Engineer,In office,M,164768.0
+SE,Data Engineer,In office,M,271000.0
+SE,Data Engineer,In office,M,68292.0
+SE,Machine Learning Infrastructure Engineer,Remote,M,201624.0
+SE,Machine Learning Infrastructure Engineer,Remote,M,161299.2
+EN,Data Scientist,In office,L,88888.0
+MI,Applied Machine Learning Scientist,Hybrid,M,187532.0
+SE,Data Scientist,In office,M,220594.00000000003
+SE,Data Scientist,In office,M,164768.0
+SE,Machine Learning Engineer,Remote,M,201624.0
+SE,Machine Learning Engineer,Remote,M,161299.2
+MI,Data Science Manager,Remote,M,171272.0
+MI,Data Science Manager,Remote,M,145256.0
+SE,Data Scientist,Remote,M,184280.0
+SE,Data Scientist,Remote,M,130080.00000000001
+EX,Analytics Engineer,Remote,M,216800.00000000003
+EX,Analytics Engineer,Remote,M,162600.0
+SE,Data Analyst,In office,M,234360.80000000002
+SE,Data Analyst,In office,M,156204.40000000002
+SE,ETL Developer,In office,M,271000.0
+SE,ETL Developer,In office,M,68292.0
+SE,Data Engineer,Remote,M,146340.0
+SE,Data Engineer,Remote,M,92140.0
+SE,Machine Learning Engineer,Remote,M,146340.0
+SE,Machine Learning Engineer,Remote,M,92140.0
+SE,Data Science Manager,Remote,M,223304.00000000003
+SE,Data Science Manager,Remote,M,189808.40000000002
+SE,Machine Learning Engineer,In office,M,205580.6
+SE,Machine Learning Engineer,In office,M,178855.66400000002
+SE,Data Architect,Remote,M,161559.36000000002
+SE,Data Architect,Remote,M,123467.6
+SE,Data Engineer,Remote,M,166936.0
+SE,Data Engineer,Remote,M,136584.0
+SE,Machine Learning Engineer,Remote,L,216800.00000000003
+SE,Machine Learning Engineer,Remote,L,162600.0
+SE,Data Engineer,In office,M,212138.80000000002
+SE,Data Engineer,In office,M,141462.0
+SE,Analytics Engineer,Remote,M,184280.0
+SE,Analytics Engineer,Remote,M,146340.0
+SE,Data Analyst,Remote,M,126828.00000000001
+SE,Data Analyst,Remote,M,107803.8
+SE,Machine Learning Engineer,In office,M,210187.6
+SE,Machine Learning Engineer,In office,M,140161.2
+SE,Data Analyst,Remote,M,189700.0
+SE,Data Analyst,Remote,M,140920.0
+SE,Data Engineer,In office,M,203900.40000000002
+SE,Data Engineer,In office,M,151608.24000000002
+SE,Machine Learning Engineer,In office,M,269590.80000000005
+SE,Machine Learning Engineer,In office,M,181136.40000000002
+SE,Data Scientist,In office,M,133765.6
+SE,Data Scientist,In office,M,95500.40000000001
+SE,Data Scientist,In office,M,265580.0
+SE,Data Scientist,In office,M,222220.00000000003
+SE,Data Engineer,In office,M,153169.2
+SE,Data Engineer,In office,M,110676.40000000001
+SE,Data Architect,In office,M,153169.2
+SE,Data Architect,In office,M,110676.40000000001
+SE,Data Architect,In office,M,271000.0
+SE,Data Architect,In office,M,68292.0
+SE,Data Science Manager,Remote,L,205418.0
+SE,Data Science Manager,Remote,L,151868.40000000002
+SE,Data Engineer,Remote,L,192518.40000000002
+SE,Data Engineer,Remote,L,142329.2
+MI,Data Engineer,In office,M,26016.0
+MI,Data Engineer,In office,M,26016.0
+SE,Data Engineer,In office,M,271000.0
+SE,Data Engineer,In office,M,68292.0
+SE,Machine Learning Engineer,Remote,L,219943.6
+SE,Machine Learning Engineer,Remote,L,142329.2
+SE,Data Engineer,Remote,M,157180.0
+SE,Data Engineer,Remote,M,124660.00000000001
+EN,Machine Learning Engineer,Hybrid,L,124660.00000000001
+MI,Machine Learning Engineer,In office,M,210187.6
+MI,Machine Learning Engineer,In office,M,140161.2
+SE,Data Scientist,Remote,L,195120.0
+SE,Data Scientist,Remote,L,151760.0
+MI,Data Analyst,In office,M,234360.80000000002
+MI,Data Analyst,In office,M,156204.40000000002
+SE,Machine Learning Scientist,In office,M,234144.00000000003
+SE,Machine Learning Scientist,In office,M,156096.0
+EN,Data Analyst,Remote,L,162600.0
+SE,Cloud Data Architect,Hybrid,L,284000.0
+EX,Data Science Manager,In office,M,282382.0
+EX,Data Science Manager,In office,M,189808.40000000002
+SE,Data Engineer,Remote,M,227640.00000000003
+SE,Data Engineer,Remote,M,108400.00000000001
+EN,Data Analyst,Remote,S,59620.00000000001
+MI,Data Analyst,Remote,M,140920.0
+SE,Data Engineer,In office,M,224061.71600000001
+SE,Data Engineer,In office,M,107424.40000000001
+MI,Analytics Engineer,In office,M,216800.00000000003
+MI,Analytics Engineer,In office,M,58536.00000000001
+SE,Data Engineer,In office,M,271000.0
+SE,Data Engineer,In office,M,68292.0
+SE,Data Architect,In office,M,271000.0
+SE,Data Architect,In office,M,68292.0
+SE,Data Engineer,In office,M,271000.0
+SE,Data Engineer,In office,M,68292.0
+EN,Analytics Engineer,Hybrid,L,140920.0
+SE,Data Engineer,In office,L,108400.00000000001
+SE,Data Engineer,In office,L,86720.0
+SE,Data Scientist,In office,L,173440.0
+SE,Data Scientist,In office,L,108400.00000000001
+SE,Data Specialist,Remote,L,239889.2
+SE,Data Specialist,Remote,L,161190.80000000002
+SE,Data Science Manager,In office,M,270197.84
+SE,Data Science Manager,In office,M,200973.6
+SE,Data Engineer,Remote,M,184280.0
+SE,Data Engineer,Remote,M,140920.0
+SE,Data Analyst,Remote,M,139700.5
+SE,Data Analyst,Remote,M,101570.8
+SE,Machine Learning Engineer,Remote,M,195120.0
+SE,Machine Learning Engineer,Remote,M,108400.00000000001
+SE,Data Analyst,Remote,M,147705.84
+SE,Data Analyst,Remote,M,118459.52
+SE,Data Scientist,Remote,L,173440.0
+SE,Data Scientist,Remote,L,99728.0
+SE,Data Engineer,Remote,M,216800.00000000003
+SE,Data Engineer,Remote,M,173440.0
+SE,Data Analyst,Remote,M,126828.00000000001
+SE,Data Analyst,Remote,M,107803.8
+EN,Data Engineer,Remote,L,139836.0
+EN,Data Engineer,Remote,L,93224.0
+SE,Data Scientist,In office,L,173440.0
+SE,Data Scientist,In office,L,129321.20000000001
+SE,Business Data Analyst,Remote,L,108400.00000000001
+MI,AI Scientist,Remote,M,216800.00000000003
+EN,Machine Learning Developer,Remote,L,195120.0
+MI,Data Scientist,Remote,L,165852.0
+SE,Data Engineer,Remote,M,227640.00000000003
+SE,Data Engineer,Remote,M,108400.00000000001
+SE,Data Analyst,Remote,M,162681.30000000002
+SE,Data Analyst,Remote,M,120242.70000000001
+SE,Data Scientist,Remote,L,173440.0
+SE,Data Scientist,Remote,L,99728.0
+SE,Machine Learning Engineer,Remote,L,219943.6
+SE,Machine Learning Engineer,Remote,L,142329.2
+SE,Data Engineer,Remote,M,189700.0
+SE,Data Engineer,Remote,M,146340.0
+EN,Machine Learning Engineer,In office,L,89972.0
+SE,Data Scientist,In office,M,201624.0
+SE,Data Scientist,In office,M,161299.2
+SE,Data Analyst,In office,M,122383.6
+SE,Data Analyst,In office,M,97906.88
+SE,ML Engineer,In office,M,260160.00000000003
+SE,ML Engineer,In office,M,173440.0
+SE,Data Science Manager,Remote,M,325200.0
+SE,Data Science Manager,Remote,M,216800.00000000003
+MI,AI Scientist,In office,M,130080.00000000001
+SE,Data Analyst,Remote,M,122383.6
+SE,Data Analyst,Remote,M,97906.88
+SE,Data Analytics Manager,Remote,M,157180.0
+SE,Data Analytics Manager,Remote,M,114253.6
+SE,Data Scientist,Remote,L,233385.2
+SE,Data Scientist,Remote,L,171488.80000000002
+SE,Data Engineer,Remote,L,226664.40000000002
+SE,Data Engineer,Remote,L,167586.40000000002
+SE,Data Analyst,In office,M,125672.456
+SE,Data Analyst,In office,M,88525.944
+SE,Data Engineer,Remote,M,189700.0
+SE,Data Engineer,Remote,M,168020.0
+SE,Data Analyst,In office,M,177776.0
+SE,Data Analyst,In office,M,143088.0
+SE,Data Scientist,Remote,M,184280.0
+SE,Data Scientist,Remote,M,133332.0
+SE,Machine Learning Engineer,In office,M,205580.6
+SE,Machine Learning Engineer,In office,M,178855.66400000002
+SE,Data Engineer,Remote,M,179293.6
+SE,Data Engineer,Remote,M,143434.88
+SE,Data Architect,Remote,M,226312.1
+SE,Data Architect,Remote,M,160215.2
+SE,Data Engineer,Remote,M,148501.496
+SE,Data Engineer,Remote,M,110101.88
+SE,Data Analyst,Remote,M,139700.5
+SE,Data Analyst,Remote,M,101570.8
+SE,Data Engineer,Remote,L,199022.40000000002
+SE,Data Engineer,Remote,L,109267.20000000001
+SE,Machine Learning Engineer,In office,M,205580.6
+SE,Machine Learning Engineer,In office,M,178855.66400000002
+SE,Data Scientist,In office,L,233385.2
+SE,Data Scientist,In office,L,152193.6
+SE,Data Scientist,Remote,M,281840.0
+SE,Data Scientist,Remote,M,195120.0
+MI,Data Engineer,In office,M,89863.6
+MI,Data Engineer,In office,M,69267.6
+MI,Machine Learning Scientist,Remote,L,173440.0
+MI,Machine Learning Scientist,Remote,L,121733.20000000001
+MI,Data Science Manager,Remote,M,261244.00000000003
+MI,Data Science Manager,Remote,M,172356.0
+SE,Data Scientist,In office,M,195120.0
+SE,Data Scientist,In office,M,86720.0
+MI,Data Analyst,In office,S,62872.00000000001
+MI,Data Analyst,In office,S,62872.00000000001
+SE,Data Engineer,In office,M,147424.0
+SE,Data Engineer,In office,M,117939.20000000001
+EX,Data Engineer,Remote,M,262328.0
+EX,Data Engineer,Remote,M,216800.00000000003
+SE,Data Scientist,Remote,M,179098.48
+SE,Data Scientist,Remote,M,130253.44
+SE,Data Analyst,Remote,M,134621.96000000002
+SE,Data Analyst,Remote,M,97906.88
+SE,Data Engineer,In office,M,197222.96000000002
+SE,Data Engineer,In office,M,143434.88
+SE,Data Engineer,In office,M,238599.24000000002
+SE,Data Engineer,In office,M,173526.72
+SE,Data Scientist,In office,L,195120.0
+SE,Data Scientist,In office,L,130080.00000000001
+MI,Data Analyst,In office,M,137126.0
+MI,Data Analyst,In office,M,115185.84000000001
+SE,Data Analyst,In office,M,125744.00000000001
+SE,Data Analyst,In office,M,107316.00000000001
+SE,Data Analyst,Remote,M,168020.0
+SE,Data Analyst,Remote,M,130730.40000000001
+MI,Data Scientist,In office,M,140920.0
+MI,Data Scientist,In office,M,97560.0
+MI,Data Engineer,Remote,M,184280.0
+MI,Data Engineer,Remote,M,162600.0
+SE,Data Analyst,Remote,M,110676.40000000001
+SE,Data Analyst,Remote,M,92031.6
+SE,Data Scientist,Remote,M,148096.08000000002
+SE,Data Scientist,Remote,M,107706.24
+SE,Data Scientist,Remote,M,158264.0
+SE,Data Scientist,Remote,M,133332.0
+EX,Data Analyst,Remote,M,140920.0
+EX,Data Analyst,Remote,M,119240.00000000001
+SE,Data Analyst,Remote,M,184280.0
+SE,Data Analyst,Remote,M,146340.0
+SE,Data Science Manager,Remote,M,174894.728
+SE,Data Science Manager,Remote,M,148660.844
+SE,Data Scientist,Remote,M,181028.0
+SE,Data Scientist,Remote,M,133332.0
+SE,Data Scientist,Remote,M,229266.00000000003
+SE,Data Scientist,Remote,M,150242.40000000002
+SE,Data Engineer,In office,L,173440.0
+SE,Data Engineer,In office,L,122492.00000000001
+SE,Data Scientist,In office,M,162600.0
+SE,Data Scientist,In office,M,103576.20000000001
+MI,Data Analyst,Remote,M,181028.0
+MI,Data Analyst,Remote,M,125202.00000000001
+SE,Data Analyst,Remote,M,122383.6
+SE,Data Analyst,Remote,M,97906.88
+SE,Data Analyst,Remote,M,122383.6
+SE,Data Analyst,Remote,M,97906.88
+SE,Data Engineer,Remote,M,179293.6
+SE,Data Engineer,Remote,M,143434.88
+SE,Data Engineer,Remote,M,264387.60000000003
+SE,Data Engineer,Remote,M,169754.40000000002
+SE,Data Analyst,Remote,M,148074.40000000002
+SE,Data Analyst,Remote,M,118459.52
+SE,Data Engineer,Remote,M,139700.5
+SE,Data Engineer,Remote,M,101570.8
+EX,Head of Data Science,Remote,M,242816.00000000003
+EX,Head of Data Science,Remote,M,181976.5
+EX,Analytics Engineer,Remote,M,189700.0
+EX,Analytics Engineer,Remote,M,146340.0
+SE,Data Engineer,Remote,L,226664.40000000002
+SE,Data Engineer,Remote,L,167586.40000000002
+SE,Data Engineer,Remote,M,195120.0
+SE,Data Engineer,Remote,M,173440.0
+SE,Data Scientist,In office,L,222545.2
+SE,Data Scientist,In office,L,152193.6
+SE,Data Scientist,Remote,M,190784.0
+SE,Data Scientist,Remote,M,156096.0
+SE,Data Engineer,Remote,M,216908.40000000002
+SE,Data Engineer,Remote,M,173440.0
+SE,Data Engineer,In office,M,76422.0
+SE,Data Engineer,In office,M,58536.00000000001
+SE,Data Scientist,In office,M,222545.2
+SE,Data Scientist,In office,M,152193.6
+SE,Analytics Engineer,In office,M,222545.2
+SE,Analytics Engineer,In office,M,200214.80000000002
+SE,Data Engineer,Remote,M,189808.40000000002
+SE,Data Engineer,Remote,M,152031.0
+SE,Data Analyst,Remote,M,125906.6
+SE,Data Analyst,Remote,M,107370.20000000001
+SE,Data Engineer,Remote,M,157180.0
+SE,Data Engineer,Remote,M,140920.0
+SE,Data Analyst,Remote,M,122383.6
+SE,Data Analyst,Remote,M,97906.88
+SE,Machine Learning Engineer,Remote,M,231976.00000000003
+SE,Machine Learning Engineer,Remote,M,208778.40000000002
+SE,Data Architect,Remote,M,288777.60000000003
+SE,Data Architect,Remote,M,231022.08000000002
+SE,Data Engineer,Remote,M,168020.0
+SE,Data Engineer,Remote,M,124660.00000000001
+MI,Data Scientist,In office,M,153169.2
+MI,Data Scientist,In office,M,110676.40000000001
+SE,Data Analyst,Remote,M,125672.456
+SE,Data Analyst,Remote,M,88525.944
+MI,Data Engineer,In office,M,224061.71600000001
+MI,Data Engineer,In office,M,107424.40000000001
+SE,Data Engineer,Remote,M,140920.0
+SE,Data Engineer,Remote,M,119782.00000000001
+SE,Data Analyst,Remote,M,86720.0
+SE,Data Analyst,Remote,M,65040.00000000001
+SE,Data Architect,Remote,M,208739.37600000002
+SE,Data Architect,Remote,M,157021.736
+SE,Data Scientist,Remote,M,249320.00000000003
+SE,Data Scientist,Remote,M,162600.0
+SE,Data Analytics Manager,Remote,M,162881.84000000003
+SE,Data Analytics Manager,Remote,M,118459.52
+SE,Data Analyst,Remote,M,184280.0
+SE,Data Analyst,Remote,M,162600.0
+MI,Data Scientist,Remote,M,173440.0
+MI,Data Scientist,Remote,M,140920.0
+SE,Data Engineer,Remote,M,166936.0
+SE,Data Engineer,Remote,M,136584.0
+SE,Data Analyst,In office,M,139836.0
+SE,Data Analyst,In office,M,107316.00000000001
+SE,Data Scientist,Remote,M,227640.00000000003
+SE,Data Scientist,Remote,M,151760.0
+SE,Data Scientist,Remote,M,227640.00000000003
+SE,Data Scientist,Remote,M,151760.0
+SE,Data Scientist,Remote,M,227640.00000000003
+SE,Data Scientist,Remote,M,151760.0
+SE,Data Analyst,Remote,M,108400.00000000001
+SE,Data Analyst,Remote,M,74796.0
+SE,Data Scientist,Remote,M,227640.00000000003
+SE,Data Scientist,Remote,M,151760.0
+SE,Data Analyst,Remote,M,162681.30000000002
+SE,Data Analyst,Remote,M,120242.70000000001
+SE,Data Engineer,Remote,M,108400.00000000001
+SE,Data Engineer,Remote,M,27100.000000000004
+SE,Data Analyst,Remote,M,137126.0
+SE,Data Analyst,Remote,M,115185.84000000001
+SE,Data Engineer,Remote,M,238599.24000000002
+SE,Data Engineer,Remote,M,173526.72
+SE,Data Analyst,Remote,M,113820.00000000001
+SE,Data Analyst,Remote,M,108400.00000000001
+SE,Data Analyst,Remote,M,184280.0
+SE,Data Analyst,Remote,M,146340.0
+SE,Data Scientist,Remote,M,249320.00000000003
+SE,Data Scientist,Remote,M,151760.0
+MI,Data Analyst,Remote,M,146340.0
+MI,Data Analyst,Remote,M,54200.00000000001
+SE,Data Scientist,Remote,M,238480.00000000003
+SE,Data Scientist,Remote,M,151760.0
+SE,Machine Learning Engineer,Remote,M,238480.00000000003
+SE,Machine Learning Engineer,Remote,M,130080.00000000001
+MI,Data Scientist,Remote,M,216800.00000000003
+MI,Data Scientist,Remote,M,130080.00000000001
+EX,Data Engineer,Remote,M,351216.0
+EX,Data Engineer,Remote,M,234144.00000000003
+SE,Data Engineer,Remote,M,227640.00000000003
+SE,Data Engineer,Remote,M,108400.00000000001
+SE,Data Scientist,Remote,M,200648.40000000002
+SE,Data Scientist,Remote,M,113700.76000000001
+SE,Data Engineer,Remote,M,113820.00000000001
+SE,Data Engineer,Remote,M,86720.0
+MI,Machine Learning Engineer,Remote,S,130080.00000000001
+MI,Applied Data Scientist,Remote,L,170188.0
+EN,Data Engineer,Remote,S,70460.0
+MI,Data Scientist,Hybrid,L,123823.99999999999
+MI,Data Scientist,Remote,M,84552.0
+SE,Data Engineer,Remote,M,146340.0
+SE,Data Engineer,Remote,M,124660.00000000001
+SE,Data Scientist,Remote,M,178860.0
+MI,Machine Learning Scientist,Hybrid,M,165852.0
+SE,Data Science Manager,Remote,M,165310.0
+EN,Research Scientist,Remote,L,130080.00000000001
+MI,Data Scientist,Remote,L,146340.0
+SE,Data Analytics Lead,Remote,L,439020.00000000006
+SE,Data Engineer,In office,L,170399.99999999997
+SE,Data Science Manager,In office,L,272640.0
+MI,Data Analyst,Remote,L,153360.0
+EN,Data Scientist,Remote,M,90879.99999999999
+SE,Applied Data Scientist,Remote,L,411920.0
+SE,Applied Data Scientist,Remote,L,191868.0
+SE,Principal Data Scientist,In office,L,249919.99999999997
+MI,Data Analyst,Remote,M,102239.99999999999
+EN,Data Scientist,In office,S,113599.99999999999
+SE,Research Scientist,Hybrid,L,156096.0
+EN,Financial Data Analyst,Hybrid,L,108400.00000000001
+MI,Data Scientist,Remote,S,93719.99999999999
+EN,Data Engineer,Remote,M,130080.00000000001
+EN,Computer Vision Engineer,In office,M,135500.0
+SE,Machine Learning Scientist,Hybrid,S,136320.0
+EN,Data Analyst,Remote,M,56799.99999999999
+SE,Principal Data Engineer,Remote,M,227199.99999999997
+MI,Data Engineer,Remote,L,227199.99999999997
+MI,Data Engineer,Remote,L,113599.99999999999
+MI,Data Architect,Remote,L,193119.99999999997
+MI,Data Architect,Remote,L,170399.99999999997
+EN,BI Data Analyst,Hybrid,S,62479.99999999999
+EX,Director of Data Science,In office,L,284000.0
+EN,Data Engineer,Remote,L,90879.99999999999
+EN,Big Data Engineer,Remote,L,80479.0
+EN,Machine Learning Engineer,Remote,S,142000.0
+SE,Data Analytics Manager,Remote,M,136320.0
+MI,Research Scientist,In office,M,517365.0
+SE,Data Science Manager,Remote,L,163583.99999999997
+MI,Data Scientist,Remote,M,170399.99999999997
+MI,Data Science Consultant,Remote,L,118419.09999999999
+SE,Data Engineer,Remote,L,173807.99999999997
+MI,Data Engineer,Remote,L,102239.99999999999
+EN,Data Analyst,Remote,S,102239.99999999999
+EN,Data Analyst,Remote,S,68160.0
+MI,ML Engineer,Remote,L,306720.0
+MI,Data Analytics Engineer,Remote,L,124959.99999999999
+EN,Machine Learning Engineer,Hybrid,L,287425.0
+EN,Machine Learning Engineer,Remote,S,158658.6
+MI,Data Engineer,Remote,L,159040.0
+SE,Lead Data Analyst,Remote,L,193119.99999999997
+EN,Data Analyst,Remote,M,90879.99999999999
+MI,BI Data Analyst,Remote,M,113599.99999999999
+EX,Head of Data,Remote,L,266960.0
+EN,Machine Learning Scientist,Remote,L,255599.99999999997
+SE,Data Engineer,Remote,M,170399.99999999997
+SE,Data Engineer,Remote,S,130639.99999999999
+MI,Data Engineer,Remote,L,121868.2
+SE,Data Engineer,Remote,L,170399.99999999997
+EN,Computer Vision Software Engineer,Remote,M,79520.0
+SE,Lead Data Engineer,In office,L,313536.0
+SE,Data Engineer,Remote,L,216143.59999999998
+MI,Data Scientist,Remote,L,120718.5
+MI,Data Engineer,Remote,L,227199.99999999997
+SE,Data Engineer,Remote,L,197663.99999999997
+MI,Data Analyst,Remote,L,105647.99999999999
+EN,Data Scientist,Remote,S,102239.99999999999
+SE,Principal Data Analyst,Remote,M,193119.99999999997
+EN,Data Analyst,Remote,L,104622.7
+SE,Data Scientist,Remote,L,187439.99999999997
+MI,Data Analyst,Remote,L,90879.99999999999
+MI,Head of Data Science,In office,S,124959.99999999999
+MI,Data Architect,Remote,L,204479.99999999997
+SE,Data Analyst,Remote,L,227199.99999999997
+SE,Data Engineer,Remote,L,227199.99999999997
+SE,ML Engineer,Remote,S,290816.0
+MI,Data Engineer,Remote,L,124959.99999999999
+EN,Data Engineer,Remote,L,82359.99999999999
+SE,Machine Learning Engineer,Hybrid,L,210159.99999999997
+MI,Data Engineer,Remote,L,127231.99999999999
+SE,Machine Learning Engineer,Hybrid,L,172455.0
+EN,Data Scientist,Hybrid,L,65888.0
+EN,Data Scientist,Remote,M,113599.99999999999
+SE,Staff Data Scientist,Remote,M,119279.99999999999
+EN,Data Analyst,Remote,L,82778.4
+MI,Data Engineer,In office,M,126976.4
+MI,Data Engineer,In office,M,105818.4
+SE,Lead Data Scientist,Remote,S,218443.0
+SE,Data Scientist,In office,L,153360.0
+MI,Data Scientist,Hybrid,L,166991.99999999997
+SE,Data Science Manager,Remote,L,197663.99999999997
+MI,Business Data Analyst,Remote,L,155209.5
+MI,Lead Data Analyst,Remote,L,100023.9
+EN,Machine Learning Engineer,Hybrid,S,92015.99999999999
+EN,Data Science Consultant,Remote,S,102239.99999999999
+SE,Machine Learning Infrastructure Engineer,Remote,M,221519.99999999997
+MI,Data Analyst,Remote,L,97724.5
+EX,Principal Data Scientist,Remote,S,472575.99999999994
+MI,BI Data Analyst,In office,M,112670.59999999999
+SE,Data Analytics Manager,In office,L,136320.0
+EX,Director of Data Science,Remote,L,373652.5
+SE,Machine Learning Engineer,Remote,L,227199.99999999997
+MI,Data Scientist,Remote,L,181759.99999999997
+SE,Data Engineer,In office,M,187439.99999999997
+SE,Principal Data Engineer,Remote,L,210159.99999999997
+MI,Data Engineer,Remote,L,126467.0
+SE,Data Analytics Manager,Remote,L,159040.0
+SE,Data Scientist,Hybrid,L,137964.0
+MI,Data Scientist,Hybrid,L,147680.0
+MI,Data Scientist,Hybrid,L,130639.99999999999
+SE,Principal Data Scientist,Remote,L,266960.0
+MI,Data Analyst,In office,L,85199.99999999999
+MI,Data Analyst,In office,L,70432.0
+MI,Data Scientist,In office,L,82927.99999999999
+SE,Data Science Manager,Remote,M,218672.94
+MI,Data Scientist,Remote,M,135664.6
+MI,Data Scientist,Remote,M,159060.995
+MI,Applied Machine Learning Scientist,Hybrid,L,480527.99999999994
+SE,Data Specialist,Remote,L,187439.99999999997
+SE,Data Scientist,Remote,L,473676.39999999997
+MI,Principal Data Scientist,Remote,L,171535.99999999997
+EN,Data Scientist,Remote,S,120718.5
+EN,Business Data Analyst,Remote,L,114970.0
