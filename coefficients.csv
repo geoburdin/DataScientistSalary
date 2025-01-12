@@ -1,18 +1,69 @@
 Feature,Coefficient
-Data Science Manager,46842.537842826256
-Computer Vision Engineer,44510.26179604284
-Applied Scientist,27230.344434931478
-Machine Learning Scientist,20023.36401826486
-Research Engineer,10497.589146469983
-Machine Learning Engineer,10302.905734655245
-Research Scientist,7792.864321295182
-ML Engineer,5886.769732550587
-Data Architect,-157.16231506841095
-Data Scientist,-2769.9199992789795
-Data Engineer,-9153.295342465686
-Data Analytics Manager,-21754.086962127254
-BI Developer,-41177.21295143201
-Data Analyst,-47315.18919742156
-Data Manager,-48163.66931506836
-Data Science Consultant,-49564.96181506849
-Data Specialist,-53876.23113325015
+Data Analytics Lead,266209.52006775513
+Data Science Tech Lead,233689.52006775537
+Director of Data Science,152573.68673442275
+Principal Data Scientist,130880.18673442249
+Cloud Data Architect,111189.5200677555
+Applied Data Scientist,85181.52006775604
+Head of Data,75879.5200677562
+Computer Vision Engineer,57456.18673442254
+Data Science Manager,43363.39528726839
+Applied Machine Learning Scientist,39739.52006775599
+Principal Data Engineer,37349.52006775603
+Head of Data Science,34201.68673442257
+Principal Machine Learning Engineer,33149.52006775586
+NLP Engineer,32189.520067756173
+Data Lead,27189.520067756526
+Lead Data Scientist,26061.49073442255
+Data Scientist Lead,25561.520067756115
+Applied Scientist,23005.57224166915
+Machine Learning Developer,22309.52006775622
+Machine Learning Infrastructure Engineer,21836.72006775561
+Principal Data Analyst,20309.52006775593
+Data Science Lead,19066.18673442225
+Machine Learning Manager,16889.520067755228
+Business Intelligence Engineer,16289.520067755875
+Machine Learning Scientist,15732.640067756263
+ML Engineer,10871.80578204184
+Research Scientist,10371.25643139235
+Machine Learning Engineer,5514.430757021546
+Research Engineer,3964.8816062175174
+Lead Data Engineer,8.003553375601768e-11
+Applied Machine Learning Engineer,7.639755494892597e-11
+Manager Data Management,1.4551915228366852e-11
+Data Analytics Engineer,-3.4924596548080444e-10
+Data Infrastructure Engineer,-748.4799322438921
+Data Architect,-3046.56919806674
+Analytics Engineer,-3171.519368863628
+Data Scientist,-8712.15207102723
+ETL Developer,-8927.29493224444
+AI Scientist,-10210.47993224391
+Cloud Database Engineer,-11930.479932243776
+Data Engineer,-11930.716495703004
+Data Analytics Manager,-22396.64493224435
+Data Specialist,-29732.70215446627
+Data Science Engineer,-32810.47993224418
+MLOps Engineer,-34919.813265577395
+Machine Learning Researcher,-35503.81326557718
+BI Developer,-37742.47993224363
+Machine Learning Software Engineer,-37810.47993224448
+Data Manager,-41945.35612272008
+Product Data Analyst,-42730.479932244634
+Deep Learning Engineer,-42810.4799322436
+Data Analytics Consultant,-50318.47993224388
+BI Analyst,-50333.67993224401
+Data Science Consultant,-51407.4799322433
+Data Analyst,-51653.177483645704
+Lead Data Analyst,-52429.179932244166
+Staff Data Scientist,-53530.479932244256
+Financial Data Analyst,-53610.47993224478
+Data Modeler,-53910.479932244634
+Business Data Analyst,-65523.879932244
+Data Operations Engineer,-70604.22993224458
+Data Operations Analyst,-74640.72993224364
+Data Analytics Specialist,-77810.47993224415
+BI Data Analyst,-85175.82993224329
+Data Quality Analyst,-91565.47993224356
+Big Data Engineer,-92331.47993224372
+Computer Vision Software Engineer,-93290.47993224414
+BI Data Engineer,-112810.47993224456
